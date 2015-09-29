@@ -1,0 +1,62 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body { 
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+	background: url(../images/background-image.jpg) no-repeat center center fixed;
+  	background-size: 800%;
+}
+
+.img-flex {
+	display: block;
+	width: 100%;
+}
+
+nav a { 
+	text-decoration: none;
+	color: black;
+}
+
+nav a:hover { 
+	color: red;
+} 
+
+nav ul { 
+	list-style: none;
+	width: 100%;
+}
+
+.wordmark { 
+	width: 9em; 
+	height: auto;
+}
+
+li { 
+	display:inline; 
+	padding:0 10px; 
+	margin:0; 
+	width: 100%;
+}
+
+.nav { 
+	text-align: right;
+	font-size: 12pt;
+}
+
+.mainhead { 
+	
+}
