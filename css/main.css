@@ -37,7 +37,7 @@ nav a:hover {
 
 .wordmark { 
 	width: 9em; 
-	height: auto;
+	height: 3.5em;
 }
 
 .mainhead { 
@@ -45,6 +45,7 @@ nav a:hover {
 }
 
 .about { 
+	font-weight: 400;
 	text-align: center;
 	padding-right: 2em;
 	padding-left: 2em;
@@ -53,7 +54,7 @@ nav a:hover {
 
 .contact ul { 
 	list-style: none;
-	padding-top: 2em;
+	padding-top: 1.75em;
 }
 
 .contact li { 
@@ -73,13 +74,45 @@ nav a:hover {
 	color:red;
 }
 
+.portfolio-header {
+	font-weight: 800;
+	text-align: center;
+	font-size: 22pt;
+	padding-top: 3em;
+	padding-bottom: 1.75em;
+}
 
+.work-title { 
+	font-size: 14pt;
+	text-align: center;
+}
 
+.application { 
+	font-size: 10pt;
+	text-align: center;
+}
 
+.portfolio-title { 
+	padding: 3em;
+	width: 100%;
+	background-color: grey;
+}
 
+.portfolio-content { 
+	background-color: white;
+	text-align: center;
+	padding: 3em;
+	width: 100%;
+}
 
+.portfolio-content-title { 
+	font-size: 10pt;
+}
 
-
+.portfolio-content-par { 
+	font-size: 10pt;
+	color: red;
+}
 
 @media only screen and (min-width: 40em) { 
 	.about { 
