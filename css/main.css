@@ -16,9 +16,7 @@ html {
 body { 
 	margin: 0;
 	padding: 0;
-	font-family: 'Roboto', sans-serif;
-	background: url(../images/background-image.jpg) no-repeat center center fixed;
-  	background-size: 800%;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .img-flex {
@@ -29,34 +27,25 @@ body {
 nav a { 
 	text-decoration: none;
 	color: black;
+	font-size: 10pt;
+	margin: 1em;
 }
 
 nav a:hover { 
 	color: red;
 } 
 
-nav ul { 
-	list-style: none;
-	width: 100%;
-}
-
 .wordmark { 
 	width: 9em; 
 	height: auto;
 }
 
-li { 
-	display:inline; 
-	padding:0 10px; 
-	margin:0; 
-	width: 100%;
-}
-
-.nav { 
-	text-align: right;
-	font-size: 12pt;
-}
-
 .mainhead { 
-	
+	text-align: center;
+}
+
+.about { 
+	text-align: center;
+	padding-right: 5em;
+	padding-left: 5em;
 }
