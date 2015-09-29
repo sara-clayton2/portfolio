@@ -46,6 +46,45 @@ nav a:hover {
 
 .about { 
 	text-align: center;
-	padding-right: 5em;
-	padding-left: 5em;
+	padding-right: 2em;
+	padding-left: 2em;
+	font-size: 18px;
 }
+
+.contact ul { 
+	list-style: none;
+	padding-top: 2em;
+}
+
+.contact li { 
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 15px;
+    text-align: center;	
+	text-decoration: none;
+}
+
+.contact a:link {
+    text-decoration: none;
+	color: black;
+}
+
+.contact a:hover { 
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 40em) { 
+	.about { 
+		padding-right: 5em;
+		padding-left: 5em;
+	}
+} 
+
