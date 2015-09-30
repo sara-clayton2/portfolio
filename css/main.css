@@ -52,9 +52,13 @@ nav a:hover {
 	font-size: 18px;
 }
 
+.info { 
+	padding-top: 2em;
+}
+
 .contact ul { 
 	list-style: none;
-	padding-top: 1.75em;
+	padding: 1.75em 0 0 0;
 }
 
 .contact li { 
@@ -113,6 +117,33 @@ nav a:hover {
 	font-size: 10pt;
 	color: red;
 }
+
+.footer { 
+	text-align: center;
+	padding-top: 6em;
+	background-color: grey;
+	padding-bottom: 3em;
+}
+
+.footer ul { 
+	list-style: none;
+	padding: 0;
+}
+
+.footer li { 
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px;
+    text-align: center;	
+	text-decoration: none;
+}
+
+.footer a:link {
+    text-decoration: none;
+	color: black;
+}
+
+
 
 @media only screen and (min-width: 40em) { 
 	.about { 
