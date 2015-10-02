@@ -50,13 +50,17 @@ img {
   	top: 0;
 }
 
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+	color: inherit;
+}
+
 //** Navigation **// 
 
 nav a { 
 	text-decoration: none;
 	color: black;
 	font-size: 10pt;
-	margin: 1em;
 }
 
 nav a:hover { 
@@ -67,8 +71,6 @@ nav a:hover {
 	width: 7em; 
 	height: 3.5em;
 	display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .mainhead { 
