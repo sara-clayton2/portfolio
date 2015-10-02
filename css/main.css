@@ -76,8 +76,8 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .about { 
-    font-size: 14px;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: 500;
     padding-bottom: 1em;
     display: block;
 	padding-right: 1em; 
@@ -110,7 +110,7 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .contact a:hover { 
-	color:red;
+	color:grey;
 }
 
 .portfolio-section-1 {
@@ -214,8 +214,8 @@ a:hover, a:visited, a:link, a:active {
 .btn-behance {
     color: grey;
 	text-decoration: none;
-	font-size: 20px;
-	padding: 8px 40px;
+	font-size: 10px;
+	padding: 9px 40px;
 	border-style: solid;
 	border-color: grey;
 	border-width: 4px;
@@ -318,6 +318,10 @@ a:hover, a:visited, a:link, a:active {
 	.wordmark { 
 		padding: 0;
 		margin: 0;
+	}
+	
+	.btn-behance {
+		font-size: 16px;
 	}
 }
 
