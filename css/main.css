@@ -304,6 +304,12 @@ nav a:hover {
 	padding-top: .5em;
 }
 
+.btt { 
+	padding-left: 3em;
+	color: white; 
+	text-decoration: none;
+}
+
 @media only screen and (min-width: 30em) { 
 	.wordmark { 
 		padding: 0;
