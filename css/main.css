@@ -89,7 +89,7 @@ nav a:hover {
 
 .portfolio-section-1 {
 	background-color: #4f5462;
-	color: #fff;
+	color: red;
 
 }
 
@@ -103,69 +103,50 @@ nav a:hover {
 
 .text-align {
 	text-align: center;
+	background-color: grey;
 }
 
 .description-title {
-	text-align: left;
-	line-height: .5rem;
-	font-size: 16px;
-	text-transform: uppercase;
-	font-weight: 700;
-	letter-spacing: .1em;
-	border-bottom: 1px solid #ccc;
-	padding: 1.5rem 0;
-	display: block;
+    text-align: left;
+    line-height: .5rem;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: .1em;
+    border-bottom: 1px solid #ccc;
+	padding-bottom: 1em;
+    margin: 1.25em;
+    display: block;
 }
 
 .portfolio-text-align {
 	text-align: left;
 }
 
+.initial-description {
+    text-align: left;
+    line-height: 1.5rem;
+    font-size: 14px;
+    display: block;
+	margin: 1.25em;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.footer { 
-	text-align: center;
-	padding-top: 6em;
-	background-color: grey;
-	padding-bottom: 3em;
 }
 
-.footer ul { 
-	list-style: none;
-	padding: 0;
-}
 
-.footer li { 
-    font-size: 12px;
-    font-weight: 600;
-    line-height: 15px;
-    text-align: center;	
-	text-decoration: none;
-}
 
-.footer a:link {
-    text-decoration: none;
-	color: black;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media only screen and (min-width: 30em) { 
 	.wordmark { 
