@@ -229,6 +229,7 @@ nav a:hover {
 	border-color: grey;
 	border-width: 4px;
 	transition: all 120ms linear;
+	text-align: center;
 }
 
 .btn-behance:hover {
