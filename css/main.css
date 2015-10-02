@@ -23,6 +23,9 @@ body {
 	width: 100%;
 }
 
+//** Navigation **// 
+
+
 nav a { 
 	text-decoration: none;
 	color: black;
@@ -45,6 +48,8 @@ nav a:hover {
 .mainhead { 
 	text-align: center;
 }
+
+//** About me **// 
 
 .about { 
 	font-weight: 400;
@@ -80,45 +85,62 @@ nav a:hover {
 	color:red;
 }
 
-.portfolio-header {
-	font-weight: 800;
+//** Portfolio Section **// 
+
+.portfolio-section-1 {
+	background-color: #4f5462;
+	color: #fff;
+
+}
+
+.portfolio-description {
+	text-align: left;
+	text-transform: uppercase;
 	text-align: center;
-	font-size: 22pt;
-	padding-top: 3em;
-	padding-bottom: 1.75em;
+	font-weight: 300;
+	letter-spacing: .1em;
 }
 
-.work-title { 
-	font-size: 14pt;
+.text-align {
 	text-align: center;
 }
 
-.application { 
-	font-size: 10pt;
-	text-align: center;
+.description-title {
+	text-align: left;
+	line-height: .5rem;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: .1em;
+	border-bottom: 1px solid #ccc;
+	padding: 1.5rem 0;
+	display: block;
 }
 
-.portfolio-title { 
-	padding: 3em;
-	width: 100%;
-	background-color: grey;
+.portfolio-text-align {
+	text-align: left;
 }
 
-.portfolio-content { 
-	background-color: white;
-	text-align: center;
-	padding: 3em;
-	width: 100%;
-}
 
-.portfolio-content-title { 
-	font-size: 10pt;
-}
 
-.portfolio-content-par { 
-	font-size: 10pt;
-	color: red;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .footer { 
 	text-align: center;
@@ -157,6 +179,7 @@ nav a:hover {
 		padding-right: 5em;
 		padding-left: 5em;
 	}
+	
 } 
 
 
