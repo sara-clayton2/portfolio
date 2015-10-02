@@ -28,8 +28,33 @@ img {
     width: 100%;
 }
 
-//** Navigation **// 
+.skip-links {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: white; 
+}
 
+.skip-links a {
+	padding: 0.5em 0.75em;
+	position: absolute;
+	top: -3em;
+	background-color: #000;
+	color: #fff;
+	font-size: 1.125em;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.skip-links a:focus {
+  	top: 0;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
+
+//** Navigation **// 
 
 nav a { 
 	text-decoration: none;
@@ -100,18 +125,69 @@ nav a:hover {
 	background-color: grey;
 }
 
+.title1 {
+	text-align: center;
+	background-color: grey;
+	padding: 1em;	
+}
+
+
+.portfolio-section-2 {
+	background-color: grey;
+}
+
+.title2 {
+	text-align: center;
+	background-color: blue;
+	padding: 1em;	
+}
+
+.portfolio-section-3 {
+	background-color: grey;
+}
+
+.title3 {
+	text-align: center;
+	background-color: red;
+	padding: 1em;	
+}
+
+.portfolio-section-4 {
+	background-color: grey;
+}
+
+.title4 {
+	text-align: center;
+	background-color: green;
+	padding: 1em;	
+}
+
+.portfolio-section-5 {
+	background-color: grey;
+}
+
+.title5 {
+	text-align: center;
+	background-color: yellow;
+	padding: 1em;	
+}
+
+.portfolio-section-6 {
+	background-color: grey;
+}
+
+.title6 {
+	text-align: center;
+	background-color: orange;
+	padding: 1em;	
+}
+
 .portfolio-description {
 	text-align: left;
 	text-transform: uppercase;
 	text-align: center;
 	font-weight: 300;
 	letter-spacing: .1em;
-}
-
-.title {
-	text-align: center;
-	background-color: grey;
-	padding: 1em;	
 }
 
 .description-title {
@@ -140,17 +216,30 @@ nav a:hover {
 }
 
 .placeholder { 
-	height: 25em;
 	padding: 0; 
 	margin: 0;
 }
 
-
 //** extra button links **//
 
+.btn-behance {
+    font-size: 1.25rem;
+    padding: 1.25rem 1.75rem;
+    text-decoration: none; 
+    display: block;
+    color: #FFFFFF;
+    background-color: grey; 
+    text-align: center;
+    margin: 0 auto;
+    letter-spacing: 2px;
+    font-weight: thin;
+    max-width: 25em;
+}
 
-
-
+.btn-behance:hover {
+    color: white;
+    background-color: black; 
+}
 
 //** Footer **// 
 
@@ -170,7 +259,6 @@ nav a:hover {
 	padding-right: 2em; 
 	padding-left: 2em;
 	text-align: center;
-
 }
 
 .footer-content {
