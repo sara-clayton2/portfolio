@@ -55,15 +55,13 @@ a:hover, a:visited, a:link, a:active {
 	color: inherit;
 }
 
-//** Navigation **// 
-
-nav a { 
+.nav a { 
 	text-decoration: none;
 	color: black;
 	font-size: 10pt;
 }
 
-nav a:hover { 
+.nav a:hover { 
 	color: grey;
 } 
 
@@ -76,8 +74,6 @@ nav a:hover {
 .mainhead { 
 	text-align: center;
 }
-
-//** About me **// 
 
 .about { 
     font-size: 14px;
@@ -117,8 +113,6 @@ nav a:hover {
 	color:red;
 }
 
-//** Portfolio Section **// 
-
 .portfolio-section-1 {
 	background-color: grey;
 }
@@ -128,7 +122,6 @@ nav a:hover {
 	background-color: grey;
 	padding: 1em;	
 }
-
 
 .portfolio-section-2 {
 	background-color: grey;
@@ -218,8 +211,6 @@ nav a:hover {
 	margin: 0;
 }
 
-//** extra button links **//
-
 .btn-behance {
     color: grey;
 	text-decoration: none;
@@ -238,8 +229,6 @@ nav a:hover {
 	
 }
 
-//** Tools **// 
-
 .tools { 
  	text-align: left;
     line-height: .5rem;
@@ -250,9 +239,6 @@ nav a:hover {
     margin: 1.25em;
     display: block;
 }
-
-
-//** Footer **// 
 
 #footer {
 	position: absolute;
