@@ -57,12 +57,12 @@ a:hover, a:visited, a:link, a:active {
 
 .nav a { 
 	text-decoration: none;
-	color: black;
+	color: #484849;
 	font-size: 10pt;
 }
 
 .nav a:hover { 
-	color: grey;
+	color: #F47F63;
 } 
 
 .wordmark { 
@@ -76,7 +76,7 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .about { 
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 500;
     padding-bottom: 1em;
     display: block;
@@ -106,11 +106,11 @@ a:hover, a:visited, a:link, a:active {
 
 .contact a:link {
     text-decoration: none;
-	color: black;
+	color: #484849;
 }
 
 .contact a:hover { 
-	color:grey;
+	color:#F47F63;
 }
 
 .portfolio-section-1 {
@@ -119,7 +119,7 @@ a:hover, a:visited, a:link, a:active {
 
 .title1 {
 	text-align: center;
-	background-color: grey;
+	background-color:  #95D6E5;
 	padding: 1em;	
 }
 
@@ -129,7 +129,7 @@ a:hover, a:visited, a:link, a:active {
 
 .title2 {
 	text-align: center;
-	background-color: blue;
+	background-color: #F47F63 ;
 	padding: 1em;	
 }
 
@@ -201,7 +201,7 @@ a:hover, a:visited, a:link, a:active {
 .initial-description {
     text-align: left;
     line-height: 1.5rem;
-    font-size: 14px;
+    font-size: 12px;
     display: block;
 	margin: 1.25em;
 }
@@ -212,12 +212,12 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .btn-behance {
-    color: grey;
+    color: #F47F63;
 	text-decoration: none;
 	font-size: 10px;
 	padding: 9px 40px;
 	border-style: solid;
-	border-color: grey;
+	border-color: #F47F63;
 	border-width: 4px;
 	transition: all 120ms linear;
 	text-align: center;
@@ -229,7 +229,7 @@ a:hover, a:visited, a:link, a:active {
 
 .behanced { 
 	text-align: center;
-	color: grey;
+	color: #F47F63;
 	padding-top: 3em;
 	padding-bottom: 3em;
 }
@@ -270,12 +270,14 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .contact li {
-	font-size: 14px;
+	font-size: 13px;
 	line-height: 1.5rem;
+	color: #F47F63;
 }
 
 .contact ul { 
 	padding-bottom: 1em;
+	text-align: justify;
 }
 
 #footer .email a{
@@ -312,6 +314,17 @@ a:hover, a:visited, a:link, a:active {
 	font-size: 8pt;
 	text-decoration: none;
 	margin: 0;
+}
+
+.contact-icon {
+	width: 1.5em;
+    margin: 0;
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.design-icons { 
+	width: 12em;
 }
 
 @media only screen and (min-width: 30em) { 
