@@ -76,11 +76,19 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .banner { 
-	padding-top: 9em;
-	padding-bottom: 9em;
+	padding-top: 7em;
+	padding-bottom: 7em;
 	background-color: #8B8C8C;
 	text-align: center;
+}
 
+.subheader { 
+	font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 1em;
+    display: block;
+	padding-right: 1em; 
+	padding-left: 1em;
 }
 
 .btn-work {
@@ -275,20 +283,10 @@ a:hover, a:visited, a:link, a:active {
 	text-align: center;
 }
 
-.finish-info { 
-	font-size: 12px;
-    font-weight: 500;
-    padding-bottom: 1em;
-    display: block;
-	padding-right: 2em; 
-	padding-left: 2em;
-	text-align: center;
-}
-
 .talking-info { 
-	font-size: 16px;
+	font-size: 18px;
     font-weight: 500;
-    padding-bottom: 1em;
+    padding-bottom: .5em;
     display: block;
 	padding-right: 2em; 
 	padding-left: 2em;
@@ -305,7 +303,7 @@ a:hover, a:visited, a:link, a:active {
 .contact li {
 	font-size: 13px;
 	line-height: 1.5rem;
-	color: #F47F63;
+	color: grey;
 }
 
 .contact ul { 
