@@ -58,7 +58,7 @@ a:hover, a:visited, a:link, a:active {
 .nav a { 
 	text-decoration: none;
 	color: #484849;
-	font-size: 10pt;
+	font-size: 14pt;
 }
 
 .nav a:hover { 
@@ -231,7 +231,7 @@ a:hover, a:visited, a:link, a:active {
 .initial-description {
     text-align: left;
     line-height: 1.5rem;
-    font-size: 12px;
+    font-size: 14px;
     display: block;
 	margin: 1.25em;
 }
