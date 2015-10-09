@@ -294,13 +294,13 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .btn-behance {
-    color: #F47F63;
+    color: grey;
 	text-decoration: none;
 	font-size: 14px;
 	padding: 10px 12px;
 	font-weight: 400;
 	border-style: solid;
-	border-color: #F47F63;
+	border-color: grey;
 	border-width: 4px;
 	-webkit-transition: all 120ms linear;
   	-moz-transition: all 120ms linear;
@@ -316,7 +316,7 @@ a:hover, a:visited, a:link, a:active {
 
 .behanced { 
 	text-align: center;
-	color: #F47F63;
+	color: grey;
 	padding-top: 3em;
 	padding-bottom: 3em;
 }
