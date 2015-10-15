@@ -12,20 +12,24 @@ layout: default
 	
 	<div id="about" class="about-me">
 		<h1 class="mainhead">hello</h1>	
+		<span class="dark-border"></span>
 		<p class="about">I'm an Ottawa based user interface designer and user experience enthusiast. I have a keen eye for pixel perfect detail and strive to create a genuine experience for the web. In terms I build awesome things for Web and Mobile. I hope you enjoy my work. If you like my work feel free to contact me, whether you want to work together or just chat about awesome design.</p>
 	</div>
 
 	<div >
-	
+		<div class="work-section">
+			<h1 class="mainhead">work</h1>	
+			<span class="dark-border"></span>
+		</div>
 		{% for portfolio in site.data.portfolio-pieces %}
-
-		<div id="work" class="portfolio-section-1 portfolio-description">	
-			<div class="title1">
-				<h2>{{portfolio.title}}</h2>
-				<p>{{portfolio.classification}}</p>
-			</div>
-		</div>	
-
+		
+			<div id="work" class="portfolio-section portfolio-description">	
+				<div class="title">
+					<h2>{{portfolio.title}}</h2>
+					<p>{{portfolio.classification}}</p>
+				</div>
+			</div>	
+			
 		<div class="content" id="content">	
 
 			<p class="description-title portfolio-text-align portfolio-padding">{{portfolio.heading1}}</p>
@@ -76,6 +80,12 @@ layout: default
 			{% endfor %}
 
 	</div>
+		
+		
+	
+		
+		
+		
 	
 	<p class="behanced"><a class="btn-behance" href="https://www.behance.net/SaraClayton">Check out my Behance</a></p>
 

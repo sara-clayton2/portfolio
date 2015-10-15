@@ -155,7 +155,7 @@ a:hover, a:visited, a:link, a:active {
 	color: #AFAFB2;
 }
 
-.portfolio-section-1 {
+.portfolio-section {
 	background-color: grey;
 	-webkit-transition: all 120ms linear;
   	-moz-transition: all 120ms linear;
@@ -164,92 +164,12 @@ a:hover, a:visited, a:link, a:active {
 	transition: all 120ms linear;
 }
 
-.portfolio-section-1 :hover {
+.portfolio-section :hover {
     background-color: #E0E0E0; 
 	color: grey;
 }
 
-.title1 {
-	text-align: center;
-	background-color: grey;
-	padding: 1em;	
-}
-
-.portfolio-section-2 {
-	background-color: grey;
-	-webkit-transition: all 120ms linear;
-  	-moz-transition: all 120ms linear;
-  	-o-transition: all 120ms linear;
-	-ms-transition: all 120ms linear;
-	transition: all 120ms linear;
-}
-
-.portfolio-section-2 :hover {
-    background-color: #E0E0E0; 
-	color: grey;
-}
-
-.title2 {
-	text-align: center;
-	background-color: grey ;
-	padding: 1em;	
-}
-
-.portfolio-section-3 {
-	background-color: grey;
-	-webkit-transition: all 120ms linear;
-  	-moz-transition: all 120ms linear;
-  	-o-transition: all 120ms linear;
-	-ms-transition: all 120ms linear;
-	transition: all 120ms linear;
-}
-
-.portfolio-section-3 :hover {
-    background-color: #E0E0E0; 
-	color: grey;
-}
-
-.title3 {
-	text-align: center;
-	background-color: grey;
-	padding: 1em;	
-}
-
-.portfolio-section-4 {
-	background-color: grey;
-	-webkit-transition: all 120ms linear;
-  	-moz-transition: all 120ms linear;
-  	-o-transition: all 120ms linear;
-	-ms-transition: all 120ms linear;
-	transition: all 120ms linear;
-}
-
-.portfolio-section-4 :hover {
-    background-color: #E0E0E0; 
-	color: grey;
-}
-
-.title4 {
-	text-align: center;
-	background-color: grey;
-	padding: 1em;	
-}
-
-.portfolio-section-5 {
-	background-color: grey;
-	-webkit-transition: all 120ms linear;
-  	-moz-transition: all 120ms linear;
-  	-o-transition: all 120ms linear;
-	-ms-transition: all 120ms linear;
-	transition: all 120ms linear;
-}
-
-.portfolio-section-5 :hover {
-    background-color: #E0E0E0; 
-	color: grey;
-}
-
-.title5 {
+.title {
 	text-align: center;
 	background-color: grey;
 	padding: 1em;	
@@ -432,6 +352,19 @@ a:hover, a:visited, a:link, a:active {
   	-moz-transform: translateX(-50%);
   	-o-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
+}
+
+.dark-border {
+    display: block;
+    width: 60px;
+    height: 4px;
+    background: #38373d;
+    margin: 0 auto;
+    margin-top: -1.4rem;
+}
+
+.work-section { 
+	padding-bottom: 3em;
 }
 
 @media only screen and (min-width: 30em) { 
