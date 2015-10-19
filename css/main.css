@@ -62,12 +62,9 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .nav a:hover { 
-	color: #AFAFB2;
-    width: 60px;
-    height: 4px;
-    background: #38373d;
-    margin: 0 auto;
-    margin-top: -1.4rem;
+	color: black;
+    display: inline-block;
+    border-bottom: 3px solid black;
 } 
 
 .wordmark { 
@@ -406,3 +403,19 @@ a:hover, a:visited, a:link, a:active {
 	}
 }
 
+
+label {  
+  cursor: pointer;
+}
+
+#content-toggle {
+  
+}
+
+#content {
+  display: none;
+}
+
+#content-toggle:checked + #content {
+  display: block;
+}

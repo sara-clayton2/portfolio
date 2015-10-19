@@ -21,15 +21,28 @@ layout: default
 			<h1 class="mainhead">work</h1>	
 			<span class="dark-border"></span>
 		</div>
-		{% for portfolio in site.data.portfolio-pieces %}
+	</div>
 		
-			<div id="work" class="portfolio-section portfolio-description">	
+		
+	
+ <div id="work">
+	
+	
+	
+		{% for portfolio in site.data.portfolio-pieces %}
+	
+		<label for="content-toggle">
+		
+			<div class="portfolio-section portfolio-description">	
 				<div class="title">
 					<h2>{{portfolio.title}}</h2>
 					<p>{{portfolio.classification}}</p>
 				</div>
 			</div>	
 			
+		</label> 
+		<input type="checkbox" id="content-toggle"/>  
+	
 		<div class="content" id="content">	
 
 			<p class="description-title portfolio-text-align portfolio-padding">{{portfolio.heading1}}</p>
@@ -69,8 +82,8 @@ layout: default
 		</div>
 
 			{% endfor %}
-
-	</div>
+</div>
+	
 
 	<p class="behanced"><a class="btn-behance" href="https://www.behance.net/SaraClayton">Check out my Behance</a></p>
 
