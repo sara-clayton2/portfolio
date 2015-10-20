@@ -6,15 +6,17 @@
    process: "In order to create content for the app I created a flow chart about a persons experience at the zoo, I focused mainly on pain points the user would come across and how they could be resolved. After narrowing down three main pain points I created personas of potential people who would be using this app and content that would increase the users experience. I wireframed content and created a flow chart in Illustrator of the apps interaction. The wireframe was brought into invision where I was able to test the app to ensure a positive user experience."
    heading3: ART DIRECTION
    artdirection: "I created a mood board with the main target audiance being families that love the outdoors and wildlife. My typography was going to be the standard Roboto in order for users to easily read content. I wanted to create small icons to be used for the animal sections that way all ages can easily identify the content. I created a color pallet that would resemble an outdoor theme using greens, browns and blues."
-   images1: images/placeholder.svg
-   images2: images/placeholder.svg
    heading4: APPLICATION
    application: "Finding where animals are An easily accessible map where the user can search animals and be directed to there location using pointers. Participating in events at the zoo The app is updated with events that are being held at the zoo around the lobby or animal interactions. This will help ensure user interation with the zoo and mobile device are connected. Information about animals The average zoo contains 1,258 different species of animals. When the user is at an exhibit they can search the animal by general to specific categories which will produce information about the specific animal."	
-   images3: images/placeholder.svg
-   images4: images/placeholder.svg
-   images5: images/placeholder.svg
-   images6: images/placeholder.svg
-
+   images-process: 
+     - placeholder.svg
+   images-artdirection:	
+     - placeholder.svg
+   images-application: 
+     - pacholder.svg
+   images-layout: 
+     - placeholder.svg
+  
 -  title: .Kode 
    classification: HTML CSS AND JAVASCRIPT
    heading1: DEFINITION
@@ -23,14 +25,16 @@
    process: "I started to research and write the content I wanted to address in the website and format it into content that could be easily understood by children who have little or no experience in coding. After, I produced a variety of sketches to layout my information and how I wanted the content to be graphically designed, as well as taking into consideration designing for different devices. Using html, css and javascript I coded a responsive website with interactive content that would engage kids and explain the basics of coding."
    heading3: ART DIRECTION
    artdirection: "This website is based around teaching youth to code. To make the website attractive for youth I created a color pallet of bright blues and yellows. To keep consistent with the theme I thought it would be a fun and educational way of teaching code by using illustrated images. The font was all sans serif because of the age demographic and small paragraphs. All visuals and content are fun, bubbly and energetic but are clean and flat designs to focus mainly on content."
-   images1: images/placeholder.svg
-   images2: images/placeholder.svg
    heading4: APPLICATION
    application: "The content was written specifically for youth so that it could easily be understood. Using the art direction I decided upon I brought in the illustrated images and made the content interactive to keep user engagment. All content is completely responsive and has accessability features. It is a single page website for easy flow and to ensure the user can accompany both content together."
-   images3: images/placeholder.svg
-   images4: images/placeholder.svg
-   images5: images/placeholder.svg
-   images6: images/placeholder.svg
+   images-process: 
+    - placeholder.svg
+   images-artdirection:	
+     - placeholder.svg
+   images-application: 
+     - pacholder.svg
+   images-layout: 
+     - placeholder.svg
 
 -  title: WeatherWear
    classification: UX / UI DESIGN
@@ -40,14 +44,16 @@
    process: "In order to create content for the app, I created a flow chart about a persons experience and pain points for waking up and finding an approprite wardrobe choice while guessing how their decision in clothing will impact them during the changing tempatures throught the day. To resolve this issue I began gathering content that would help the user with these pain points. In Illustrator I created a flow chart and wireframe of my app which was later tested in Invision. I also did usability testing where a group of peers and myself tested the interaction of the app to ensure all content had a nice flow and could properly be obtained."
    heading3: ART DIRECTION
    artdirection: "When you think weather you have a different reaction depending on if the day is bright and sunny or dull and rainy. When creating the color pallet for this weather app I wanted to relate content and emotions with colors. All users are visual and having the various colors associate with its content creates a good experience ( eg: sunny with yellows, rainy with greys, cloudy with blues )."
-   images1: images/placeholder.svg
-   images2: images/placeholder.svg
    heading4: APPLICATION
    application: "Local weather updates:Accurate and updated weather information based on location. Suggested clothing:General clothing pieces that are paired together and suggested for the overall days forecast. Favourited items:Based on your previous clothing suggestions and the weather for the day the user can save the wardrobe to be suggested again during a similar forecast day."
-   images3: images/placeholder.svg
-   images4: images/placeholder.svg
-   images5: images/placeholder.svg
-   images6: images/placeholder.svg
+   images-process: 
+     - placeholder.svg
+   images-artdirection:	
+     - placeholder.svg
+   images-application: 
+     - pacholder.svg
+   images-layout: 
+     - placeholder.svg
    
 -  title: Learning Touch Canada
    classification: UX / UI DESIGN
@@ -57,18 +63,29 @@
    process: "Learning Touch Canada has a successful interaction and user experience; being rated a 4/5 star on the Microsoft Store. The app was designed with minimal graphic styles and color palletes. Knowing the creator of the app I was able to speak with him about the direction and vision he had for the design and content layout. After gathering primary research I was able to branch out and look at other successful Windows apps and collect popular and trending graphic styles and layouts that were successfully interpreting data while creating a clean and beautiful design."
    heading3: ART DIRECTION
    artdirection: "The content for this app is educational and having a large amount of iconography, colors and images would take away from the important information. I decided to steer clear of anything distruptive or distractive by keeping my color pallet simple of just red tones and having any icons used, as a flat design. All flags were converted to illustrated images and I decided to restylize the map into a more attractive design."
-   images1: images/placeholder.svg
-   images2: images/placeholder.svg
    heading4: APPLICATION
-   images3: images/placeholder.svg
-   images4: images/placeholder.svg
+   images-process: 
+    - placeholder.svg
+   images-artdirection:	
+     - placeholder.svg
+   images-application: 
+     - pacholder.svg
+   images-layout: 
+     - placeholder.svg
    
 -  title: TV Broadcast Package
    classification: MOTION
    heading1: DEFINITION
    definition: "Concept for a television network. Includes a broadcast package with title reveal, lower thirds, sidebar animation and transitions."
    heading4: APPLICATION
-   images3: images/placeholder2.svg
+   images-process: 
+     - placeholder.svg
+   images-artdirection:	
+     - placeholder.svg
+   images-application: 
+     - pacholder.svg
+   images-layout: 
+     - placeholder.svg
    
 -  title: Isometric Illustration 
    classification: ILLUSTRATOR 
@@ -78,7 +95,12 @@
    process: I began by researching and sketching isometric illustrations that displayed a process and the actions that would be performed during each process. 
    heading3: ART DIRECTION 
    artdirection: I decided to go with a colour pallet that was simple and modern, consisting of grey scales with hints of bold colours. 
-   images1: images/placeholder.svg
-   images2: images/placeholder.svg
    heading4: APPLICATION 
-   images3: images/placeholder2.svg
+   images-process: 
+     - placeholder.svg
+   images-artdirection:	
+     - placeholder.svg
+   images-application: 
+     - pacholder.svg
+   images-layout: 
+     - placeholder.svg

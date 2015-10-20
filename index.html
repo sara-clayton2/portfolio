@@ -47,27 +47,42 @@ layout: default
 				<p class="initial-description portfolio-text-align">{{portfolio.artdirection}}</p>
 			</div>
 		</div>
-
+		
 		<div class="grid">
+			
 			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 gutter">
-				<img class="placeholder" src="{{portfolio.images1}}" alt="process sketches">
-			</div>
+				{% for images in site.data.portfolio-pieces %}		
+			 		<img class="placeholder" src="{{site.baseurl}}/images/{{images-process}}" alt="process sketches">
+				{% endfor %}	
+			</div>	
+			
 			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 gutter">
-				<img class="placeholder" src="{{portfolio.images2}}" alt="art direction ">
+				{% for images in site.data.portfolio-pieces %}	
+					<img class="placeholder" src="{{site.baseurl}}/images/{{images-artdirection}}" alt="art direction ">
+				{% endfor %}
 			</div>
+			
 		</div>
 
 		<p class="description-title portfolio-text-align portfolio-padding">{{portfolio.heading4}}</p>
 		<p class="initial-description portfolio-text-align">{{portfolio.application}}</p>
+		
 		<div class="grid">
+			
 			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 gutter">
-				<img class="placeholder" src="{{portfolio.images3}}" alt="portfolio piece design">
+				{% for images in site.data.portfolio-pieces %}	
+					<img class="placeholder" src="{{site.baseurl}}/images/{{images-application}}" alt="portfolio piece design">
+				{% endfor %}
 			</div>
+			
 			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 gutter">
-				<img class="placeholder"  src="{{portfolio.images4}}" alt="portfolio piece design">
+				{% for images in site.data.portfolio-pieces %}	
+					<img class="placeholder"  src="{{site.baseurl}}/images/{{images-layout}}" alt="portfolio piece design">
+				{% endfor %}
 			</div>
+			
 		</div>
-
+		
 	</div>
 
  {% endfor %}
