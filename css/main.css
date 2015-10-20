@@ -403,19 +403,3 @@ a:hover, a:visited, a:link, a:active {
 	}
 }
 
-
-label {  
-  cursor: pointer;
-}
-
-#content-toggle {
-  
-}
-
-#content {
-  display: none;
-}
-
-#content-toggle:checked + #content {
-  display: block;
-}
