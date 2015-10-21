@@ -52,7 +52,7 @@
    heading3: ART DIRECTION
    artdirection: "The content for this app is educational and having a large amount of iconography, colors and images would take away from the important information. I decided to steer clear of anything distruptive or distractive by keeping my color pallet simple of just red tones and having any icons used, as a flat design. All flags were converted to illustrated images and I decided to restylize the map into a more attractive design."
    images-process: images/placeholder.svg
-   images-atrdirection: images/placeholder.svg
+   images-artdirection: images/placeholder.svg
    heading4: APPLICATION
    images-application: images/placeholder.svg
    images-layout: images/placeholder.svg
@@ -62,7 +62,7 @@
    heading1: DEFINITION
    definition: "Concept for a television network. Includes a broadcast package with title reveal, lower thirds, sidebar animation and transitions."
    heading4: APPLICATION
-   images-layout: images/placeholder.svg
+   images-layout: images/placeholder2.svg
    
 -  title: Isometric Illustration 
    classification: ILLUSTRATOR 
