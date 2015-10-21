@@ -61,6 +61,10 @@
    classification: MOTION
    heading1: DEFINITION
    definition: "Concept for a television network. Includes a broadcast package with title reveal, lower thirds, sidebar animation and transitions."
+   heading2: PROCESS
+   heading3: ART DIRECTION
+   images-process: images/placeholder.svg
+   images-artdirection: images/placeholder.svg
    heading4: APPLICATION
    images-layout: images/placeholder2.svg
    
