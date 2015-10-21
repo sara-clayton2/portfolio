@@ -12,7 +12,7 @@
    application: "Finding where animals are An easily accessible map where the user can search animals and be directed to there location using pointers. Participating in events at the zoo The app is updated with events that are being held at the zoo around the lobby or animal interactions. This will help ensure user interation with the zoo and mobile device are connected. Information about animals The average zoo contains 1,258 different species of animals. When the user is at an exhibit they can search the animal by general to specific categories which will produce information about the specific animal."	
    images-application: images/placeholder.svg
    images-layout: images/placeholder.svg
-
+   images-layout-alt: about this content
 -  title: .Kode 
    classification: HTML CSS AND JAVASCRIPT
    heading1: DEFINITION
