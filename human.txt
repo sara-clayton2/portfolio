@@ -1,0 +1,41 @@
+/* Team */
+
+
+Designer: Sara Clayton
+
+Site: hello@saraclayton.ca
+
+
+Instagram: https://twitter.com/sara_clayton_
+
+Behance:https://www.behance.net/SaraClayton
+
+Linkedin: https://www.linkedin.com/in/saraclaytonottawa
+
+Github: https://github.com/sara-clayton2
+
+
+
+Location: Ottawa, Ontario
+
+
+
+/* Thanks */
+
+
+Name: www.saraaclayton.ca
+
+
+
+/* Site */
+
+
+Updated: October, 24, 2015
+
+
+Standards: HTML5, CSS3, Jekyll
+
+/* Technology */
+
+- github 
+- brackets
