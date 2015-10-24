@@ -3,8 +3,7 @@
 
 Designer: Sara Clayton
 
-Site: hello@saraclayton.ca
-
+Email: hello@saraclayton.ca
 
 Instagram: https://twitter.com/sara_clayton_
 
@@ -19,12 +18,10 @@ Github: https://github.com/sara-clayton2
 Location: Ottawa, Ontario
 
 
-
 /* Thanks */
 
 
 Name: www.saraaclayton.ca
-
 
 
 /* Site */
