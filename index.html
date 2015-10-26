@@ -5,21 +5,21 @@ priority: 1.0
 changefreq: weekly
 ---
 
-<main id="main"> 
+<main id="main" itemscope itemtype="https://schema.org/CreativeWork" itemtype="https://schema.org/Thing"> 
 	
 	<div id="banner" class="banner">
-		<h1 class="mainhead">SARA CLAYTON</h1>	
-		<p class="sub-header">WEB/UI DESIGNER &amp; EXPERIENCE CRAFTER</p>
+		<h1 class="mainhead" itemprop="author">SARA CLAYTON</h1>	
+		<p class="sub-header" itemprop="genre">WEB/UI DESIGNER &amp; EXPERIENCE CRAFTER</p>
 		<p class="worked"><a class="btn-work" href="#work">View my work</a></p>
 	</div>
 	
 	<div id="about" class="about-me">
 		<h1 class="mainhead">hello</h1>	
 		<span class="dark-border"></span>
-		<p class="about">I'm an Ottawa based user interface designer and user experience enthusiast. I have a keen eye for pixel perfect detail and strive to create a genuine experience for the web. In terms I build awesome things for Web and Mobile. I hope you enjoy my work. If you like my work feel free to contact me, whether you want to work together or just chat about awesome design.</p>
+		<p class="about" itemprop="about">I'm an Ottawa based user interface designer and user experience enthusiast. I have a keen eye for pixel perfect detail and strive to create a genuine experience for the web. In terms I build awesome things for Web and Mobile. I hope you enjoy my work. If you like my work feel free to contact me, whether you want to work together or just chat about awesome design.</p>
 	</div>
 
-	<div id="work" >
+	<div id="work">
 		<div class="work-section">
 			<h1 class="mainhead">work</h1>	
 			<span class="dark-border"></span>
@@ -30,44 +30,44 @@ changefreq: weekly
 
 		<div class="portfolio-section portfolio-description">	
 			<div class="title">
-				<h2>{{portfolio.title}}</h2>
-				<p>{{portfolio.classification}}</p>
+				<h2 itemprop="headline">{{portfolio.title}}</h2>
+				<p itemprop="genre">{{portfolio.classification}}</p>
 			</div>
 		</div>	
 
 	<div class="content">	
 
-		<p class="description-title portfolio-text-align portfolio-padding">{{portfolio.heading1}}</p>
-		<p class="initial-description portfolio-text-align">{{portfolio.definition}}</p>	
+		<p class="description-title portfolio-text-align portfolio-padding" itemprop="alternativeHeadline">{{portfolio.heading1}}</p>
+		<p class="initial-description portfolio-text-align" itemprop="description">{{portfolio.definition}}</p>	
 
 		<div class="grid">
 			<div class="gutter unit unit-s-1 unit-m-1-2 unit-l-1-2">	
-				<p class="description-title portfolio-text-align">{{portfolio.heading2}}</p>
-				<p class="initial-description portfolio-text-align">{{portfolio.process}}</p>	
+				<p class="description-title portfolio-text-align" itemprop="alternativeHeadline">{{portfolio.heading2}}</p>
+				<p class="initial-description portfolio-text-align" itemprop="description">{{portfolio.process}}</p>	
 			</div>	
 			<div class="gutter unit unit-s-1 unit-m-1-2 unit-l-1-2">
-				<p class="description-title portfolio-text-align">{{portfolio.heading3}}</p>
-				<p class="initial-description portfolio-text-align">{{portfolio.artdirection}}</p>
+				<p class="description-title portfolio-text-align" itemprop="alternativeHeadline">{{portfolio.heading3}}</p>
+				<p class="initial-description portfolio-text-align" itemprop="description">{{portfolio.artdirection}}</p>
 			</div>
 		</div>
 
 		<div class="grid">
 			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 gutter">
-				<img class="placeholder" src="{{portfolio.images-process}}" alt="{{portfolio.images-process-alt}}">
+				<img class="placeholder" src="{{portfolio.images-process}}" alt="{{portfolio.images-process-alt}}" itemprop="image">
 			</div>
 			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 gutter">
-				<img class="placeholder" src="{{portfolio.images-artdirection}}" alt="{{portfolio.images-artdirection-alt}}">
+				<img class="placeholder" src="{{portfolio.images-artdirection}}" alt="{{portfolio.images-artdirection-alt}}" itemprop="image">
 			</div>
 		</div>
 
-		<p class="description-title portfolio-text-align portfolio-padding">{{portfolio.heading4}}</p>
-		<p class="initial-description portfolio-text-align">{{portfolio.application}}</p>
+		<p class="description-title portfolio-text-align portfolio-padding" itemprop="alternativeHeadline">{{portfolio.heading4}}</p>
+		<p class="initial-description portfolio-text-align" itemprop="description">{{portfolio.application}}</p>
 		<div class="grid">
 			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 gutter">
-				<img class="placeholder" src="{{portfolio.images-application}}" alt="{{portfolio.images-application-alt}}">
+				<img class="placeholder" src="{{portfolio.images-application}}" alt="{{portfolio.images-application-alt}}" itemprop="image">
 			</div>
 			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 gutter">
-				<img class="placeholder"  src="{{portfolio.images-layout}}" alt="{{portfolio.images-layout-alt}}">
+				<img class="placeholder"  src="{{portfolio.images-layout}}" alt="{{portfolio.images-layout-alt}}" itemprop="image">
 			</div>
 		</div>
 
@@ -80,13 +80,15 @@ changefreq: weekly
 
 	<div class="grid">
 		<div class="unit unit-s-1-2 unit-m-1-2 unit-l-1-2 gutter">
-			<img class="design-icons" src="images/userexp.svg" alt="icon about UX">
-			<h2 class="tools">Why I Design</h2>
-			<p class="initial-description  portfolio-text-align">I build awesome things for mobile and web. I believe in creating a story for users which in turn leads to a great user experience. Designs should be beautiful but should have a great impact with its content; design should have a purpose, a meaning and action. I love design, but the thought behind it and the communication aspect is what I love the most. </p>
+			<img class="design-icons" src="images/userexp.svg" alt="icon about UX" itemprop="thumbnailUrl">
+			<h2 class="tools" itemprop="headline">Why I Design</h2>
+			<p class="initial-description  portfolio-text-align" itemprop="text">I build awesome things for mobile and web. I believe in creating a story for users which in turn leads to a great user experience. Designs should be beautiful but should have a great impact with its content; design should have a purpose, a meaning and action. I love design, but the thought behind it and the communication aspect is what I love the most. </p>
 		</div>
 		<div class="unit unit-s-1-2 unit-m-1-2 unit-l-1-2 gutter">
-			<img class="design-icons" src="images/webcode.svg" alt="icon about web code">
-			<h2 class="tools">Web / UX Design</h2>
-			<p class="initial-description  portfolio-text-align">Fluent in HTML CSS and Javascript. I produce clean, functional and responsive web designs. I'm comfortable with wireframing and content placement while producing content and design that follows close attention to details, whitespace and visual hierarchy. I truly have a passion and love for coding.</p>
+			<img class="design-icons" src="images/webcode.svg" alt="icon about web code" itemprop="thumbnailUrl">
+			<h2 class="tools"  itemprop="headline">Web / UX Design</h2>
+			<p class="initial-description  portfolio-text-align" itemprop="text">Fluent in HTML CSS and Javascript. I produce clean, functional and responsive web designs. I'm comfortable with wireframing and content placement while producing content and design that follows close attention to details, whitespace and visual hierarchy. I truly have a passion and love for coding.</p>
 		</div>
 	</div>
+	
+</main>
