@@ -5,12 +5,12 @@ priority: 1.0
 changefreq: weekly
 ---
 
-<main id="main" itemscope itemtype="https://schema.org/CreativeWork" itemtype="https://schema.org/Thing"> 
+<main id="main" itemscope itemtype="https://schema.org/CreativeWork" itemtype="https://schema.org/Thing" role="main"> 
 	
-	<div id="banner" class="banner">
+	<div id="banner" class="banner" role="banner">
 		<h1 class="mainhead" itemprop="author">SARA CLAYTON</h1>	
 		<p class="sub-header" itemprop="genre">WEB/UI DESIGNER &amp; EXPERIENCE CRAFTER</p>
-		<p class="worked"><a class="btn-work" href="#work">View my work</a></p>
+		<p class="worked"><a class="btn-work" href="#work" aria-label="View my work">View my work</a></p>
 	</div>
 	
 	<div id="about" class="about-me">
@@ -76,7 +76,7 @@ changefreq: weekly
  {% endfor %}
 
 
-	<p class="behanced"><a class="btn-behance" href="https://www.behance.net/SaraClayton">Check out my Behance</a></p>
+	<p class="behanced"><a class="btn-behance" href="https://www.behance.net/SaraClayton" aria-label="Check out my Behance" >Check out my Behance</a></p>
 
 	<div class="grid">
 		<div class="unit unit-s-1-2 unit-m-1-2 unit-l-1-2 gutter">
