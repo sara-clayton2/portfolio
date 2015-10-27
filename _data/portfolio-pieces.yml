@@ -7,15 +7,15 @@
    heading3: ART DIRECTION
    artdirection: "I created a mood board with the main target audiance being families that love the outdoors and wildlife. My typography was going to be the standard Roboto in order for users to easily read content. I wanted to create small icons to be used for the animal sections that way all ages can easily identify the content. I created a color pallet that would resemble an outdoor theme using greens, browns and blues."
    images-process: images/placeholder.svg
-   images-process-alt: about this content
+   images-process-alt: an image showing the wireframe process for the zoo app
    images-artdirection: images/placeholder.svg
-   images-artdirection-alt: about this content
+   images-artdirection-alt: images showing color scheme and iconography for zoo app
    heading4: APPLICATION
    application: "Finding where animals are An easily accessible map where the user can search animals and be directed to there location using pointers. Participating in events at the zoo The app is updated with events that are being held at the zoo around the lobby or animal interactions. This will help ensure user interation with the zoo and mobile device are connected. Information about animals The average zoo contains 1,258 different species of animals. When the user is at an exhibit they can search the animal by general to specific categories which will produce information about the specific animal."	
    images-application: images/placeholder.svg
-   images-application-alt: about this content
+   images-application-alt: screens displaying the zoo app features
    images-layout: images/placeholder.svg
-   images-layout-alt: about this content
+   images-layout-alt: screens displaying the zoo app features
    
 -  title: .Kode 
    classification: HTML CSS AND JAVASCRIPT
@@ -26,15 +26,15 @@
    heading3: ART DIRECTION
    artdirection: "This website is based around teaching youth to code. To make the website attractive for youth I created a color pallet of bright blues and yellows. To keep consistent with the theme I thought it would be a fun and educational way of teaching code by using illustrated images. The font was all sans serif because of the age demographic and small paragraphs. All visuals and content are fun, bubbly and energetic but are clean and flat designs to focus mainly on content."
    images-process: images/placeholder.svg
-   images-process-alt: about this content
+   images-process-alt: image of the wireframe for the kode website
    images-artdirection: images/placeholder.svg
-   images-artdirection-alt: about this content
+   images-artdirection-alt: images of sketches for the imagery and color schemes
    heading4: APPLICATION
    application: "The content was written specifically for youth so that it could easily be understood. Using the art direction I decided upon I brought in the illustrated images and made the content interactive to keep user engagment. All content is completely responsive and has accessability features. It is a single page website for easy flow and to ensure the user can accompany both content together."
    images-application: images/placeholder.svg
-   images-application-alt: about this content
+   images-application-alt: images of the website in various devices
    images-layout: images/placeholder.svg
-   images-layout-alt: about this content
+   images-layout-alt: images of the full website in full screen
    
 -  title: WeatherWear
    classification: UX / UI DESIGN
@@ -45,15 +45,15 @@
    heading3: ART DIRECTION
    artdirection: "When you think weather you have a different reaction depending on if the day is bright and sunny or dull and rainy. When creating the color pallet for this weather app I wanted to relate content and emotions with colors. All users are visual and having the various colors associate with its content creates a good experience ( eg: sunny with yellows, rainy with greys, cloudy with blues )."
    images-process: images/placeholder.svg
-   images-process-alt: about this content
+   images-process-alt: images displaying the wireframe of the content for the weather app
    images-artdirection: images/placeholder.svg
-   images-artdirection-alt: about this content
+   images-artdirection-alt: image displaying the iconography for the weather app
    heading4: APPLICATION
    application: "Local weather updates:Accurate and updated weather information based on location. Suggested clothing:General clothing pieces that are paired together and suggested for the overall days forecast. Favourited items:Based on your previous clothing suggestions and the weather for the day the user can save the wardrobe to be suggested again during a similar forecast day."
    images-application: images/placeholder.svg
-   images-application-alt: about this content
+   images-application-alt: images showing the weather apps loading and initial screen in a a mobile device
    images-layout: images/placeholder.svg
-   images-layout-alt: about this content
+   images-layout-alt: image of the interior of the app 
    
 -  title: Learning Touch Canada
    classification: UX / UI DESIGN
@@ -64,14 +64,14 @@
    heading3: ART DIRECTION
    artdirection: "The content for this app is educational and having a large amount of iconography, colors and images would take away from the important information. I decided to steer clear of anything distruptive or distractive by keeping my color pallet simple of just red tones and having any icons used, as a flat design. All flags were converted to illustrated images and I decided to restylize the map into a more attractive design."
    images-process: images/placeholder.svg
-   images-process-alt: about this content
+   images-process-alt: images of the sketches of the newly developed concept for Learning Touch Canada
    images-artdirection: images/placeholder.svg
-   images-artdirection-alt: about this content
+   images-artdirection-alt: images for the colors used in the Learning Touch Canada
    heading4: APPLICATION
    images-application: images/placeholder.svg
-   images-application-alt: about this content
+   images-application-alt: Image of the initial Learning Touch Canada app before the redesign
    images-layout: images/placeholder.svg
-   images-layout-alt: about this content
+   images-layout-alt: image of the newly designed version of the Learning Touch Canada application
    
 -  title: TV Broadcast Package
    classification: MOTION
@@ -80,9 +80,9 @@
    heading2: PROCESS
    heading3: ART DIRECTION
    images-process: images/placeholder.svg
-   images-process-alt: about this content
+   images-process-alt: image of the screen sketches for the process of designing the broadcast package
    images-artdirection: images/placeholder.svg
-   images-artdirection-alt: about this content
+   images-artdirection-alt: image of the style board displaying art direction for the broadcast package
    heading4: APPLICATION
    images-application: images/placeholder2.svg
    images-application-alt: about this content
@@ -98,11 +98,11 @@
    heading3: ART DIRECTION 
    artdirection: I decided to go with a colour pallet that was simple and modern, consisting of grey scales with hints of bold colours. 
    images-process: images/placeholder.svg
-   images-process-alt: about this content
+   images-process-alt: images of the initial sketches on a grid template for the isometric illustration
    images-artdirection: images/placeholder.svg
-   images-artdirection-alt: about this content
+   images-artdirection-alt: image of the color schemes for the isometric illustration
    heading4: APPLICATION
    images-application: images/placeholder.svg
-   images-application-alt: about this content
+   images-application-alt: image of the isometric illustration final piece
    images-layout: images/placeholder.svg
-   images-layout-alt: about this content
+   images-layout-alt: images of upclose snippets from the isometric illustraion
