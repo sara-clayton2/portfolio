@@ -27,15 +27,18 @@ changefreq: weekly
 	</div>
 
 {% for portfolio in site.data.portfolio-pieces %}
+	
 
 	<div class="portfolio-section portfolio-description">	
-		<div class="title">
-			<h2 itemprop="headline">{{portfolio.title}}</h2>
-			<p itemprop="genre">{{portfolio.classification}}</p>
-		</div>
+		 <a href="#{{portfolio.open-content}}">
+			<div class="title">
+				<h2 itemprop="headline">{{portfolio.title}}</h2>
+				<p itemprop="genre">{{portfolio.classification}}</p>
+			</div>
+		 </a>	 
 	</div>	
 
-	<div class="content">	
+	<div class="content" id="{{portfolio.open-content}}">	
 
 		<p class="description-title portfolio-text-align portfolio-padding" itemprop="alternativeHeadline">{{portfolio.heading1}}</p>
 		<p class="initial-description portfolio-text-align" itemprop="description">{{portfolio.definition}}</p>	

@@ -1,4 +1,6 @@
 -  title: Zoo App 
+   id: open-content1
+   href: open-content1
    classification: UX/UI Design
    heading1: DEFINITION
    definition: "The purpose of this design is to create a user friendly mobile app for users to navigate through a zoo and find information about animals and events."
@@ -18,6 +20,7 @@
    images-layout-alt: screens displaying the zoo app features
    
 -  title: .Kode 
+   id: open-content2
    classification: HTML CSS AND JAVASCRIPT
    heading1: DEFINITION
    definition: "An interactive and responsive website for kids to learn the basics of html and css and how it can be applied to create their own website."
@@ -37,6 +40,7 @@
    images-layout-alt: images of the full website in full screen
    
 -  title: WeatherWear
+   id: open-content3
    classification: UX / UI DESIGN
    heading1: DEFINITION
    definition: "WeatherWear is a mobile app that connects the user to the local weather forecast and offers suggestions of comfortable and appropriate wardrobe choices for that day."
@@ -56,6 +60,7 @@
    images-layout-alt: image of the interior of the app 
    
 -  title: Learning Touch Canada
+   id: open-content4
    classification: UX / UI DESIGN
    heading1: DEFINITION
    definition: "Re-design for a Windows app called Learning Touch Canada an education app where users learn to identify the flags, capital cities, provinces and territories of Canada with a set of simple matching games."
@@ -74,6 +79,7 @@
    images-layout-alt: image of the newly designed version of the Learning Touch Canada application
    
 -  title: TV Broadcast Package
+   id: open-content5
    classification: MOTION
    heading1: DEFINITION
    definition: "Concept for a television network. Includes a broadcast package with title reveal, lower thirds, sidebar animation and transitions."
@@ -90,6 +96,7 @@
    images-layout-alt: about this content
    
 -  title: Isometric Illustration 
+   id: open-content6
    classification: ILLUSTRATOR 
    heading1: DEFINITION
    definition: An isometric illustration using Illustrator displaying the process of creating a mobile app. 
