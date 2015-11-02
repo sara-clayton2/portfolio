@@ -403,10 +403,10 @@ a:hover, a:visited, a:link, a:active {
 	}
 }
 
-#open-content1 {
+.content {
   display: none;
 }
 
-#open-content1:target {
+.content:target {
   display: block;
 }
