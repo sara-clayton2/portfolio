@@ -21,6 +21,11 @@ body {
 .img-flex {
 	width: 100%;
 }
+ 
+.nav { 
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
 
 img {
     display: block;
@@ -60,6 +65,7 @@ a:hover, a:visited, a:link, a:active {
 	font-size: 14pt;
     border-bottom: 3px solid #eee;
 }
+
 
 .nav a:hover { 
 	color: black;
