@@ -35,7 +35,7 @@ changefreq: weekly
 				<h2 itemprop="headline">{{portfolio.title}}</h2>
 				<p itemprop="genre">{{portfolio.classification}}</p>
 			</div>
-		 </a>	 
+		 </a>	
 	</div>	
 
 	<div class="content" id="{{portfolio.id}}">	
@@ -73,7 +73,8 @@ changefreq: weekly
 				<img class="placeholder"  src="{{portfolio.images-layout}}" alt="{{portfolio.images-layout-alt}}" itemprop="image">
 			</div>
 		</div>
-
+		
+		<a href="#{{portfolio.close}}"><img class="close" src="images/close.svg"></a>
 	</div>
 
  {% endfor %}

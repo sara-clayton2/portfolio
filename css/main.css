@@ -410,3 +410,22 @@ a:hover, a:visited, a:link, a:active {
 .content:target {
   display: block;
 }
+
+.content, .close-menu {
+  display: block;
+}
+
+.content, .close-menu:target {
+  display: none;
+}
+
+.close { 
+	display: block;
+	width: 2em;
+	padding-bottom: 2em; 
+	padding-top: 2em;
+}
+
+.close:target { 
+	display: none;
+}
