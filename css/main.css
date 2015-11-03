@@ -408,15 +408,12 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .content:target {
-  display: block;
-}
-
-.content, .close-menu {
-  display: block;
-}
-
-.content, .close-menu:target {
-  display: none;
+	display: block;
+	-webkit-transition: all .25s ease;
+	-moz-transition: all .25s ease;
+	-ms-transition: all .25s ease;
+	-o-transition: all .25s ease;
+	transition: all .25s ease;
 }
 
 .close { 
@@ -424,8 +421,14 @@ a:hover, a:visited, a:link, a:active {
 	width: 2em;
 	padding-bottom: 2em; 
 	padding-top: 2em;
+	
 }
 
 .close:target { 
 	display: none;
+	-webkit-transition: all .25s ease;
+	-moz-transition: all .25s ease;
+	-ms-transition: all .25s ease;
+	-o-transition: all .25s ease;
+	transition: all .25s ease;
 }
