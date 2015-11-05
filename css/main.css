@@ -61,7 +61,7 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .nav a { 
-	color: #484849;
+	color: #282828;
 	font-size: 14pt;
     border-bottom: 3px solid #eee;
 }
@@ -133,6 +133,7 @@ a:hover, a:visited, a:link, a:active {
     font-weight: 500;
     padding-bottom: 1em;
     display: block;
+	color: #282828;
 }
 
 .about-me { 
