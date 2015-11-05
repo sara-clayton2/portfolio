@@ -80,6 +80,7 @@ a:hover, a:visited, a:link, a:active {
 
 .mainhead { 
 	text-align: center;
+	color: #282828;
 }
 
 .sub-header { 
@@ -102,20 +103,18 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .btn-work {
-    color: white;
+	color: #474949;
 	text-decoration: none;
 	font-size: 18px;
-	padding: 9px 40px;
+	padding: 10px 25px;
 	border-style: solid;
-	border-color: #F8B062;
+	border-color: #474949;
 	border-width: 4px;
-	background-color: #F8B062;
 	-webkit-transition: all 120ms linear;
   	-moz-transition: all 120ms linear;
   	-o-transition: all 120ms linear;
 	-ms-transition: all 120ms linear;
 	transition: all 120ms linear;
-	text-align: center;
 }
 
 .btn-work:hover {
@@ -124,9 +123,9 @@ a:hover, a:visited, a:link, a:active {
 
 .worked { 
 	text-align: center;
-	color: white;
-	padding-top: 3em;
-	padding-bottom: 3em;
+	color: #474949;
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
 .about { 
@@ -217,6 +216,7 @@ a:hover, a:visited, a:link, a:active {
     font-size: 16px;
     display: block;
 	margin: 1.25em;
+	color: #282828;
 }
 
 .placeholder { 
@@ -225,21 +225,18 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .btn-behance {
-    color: white;
+	color: #282828;
 	text-decoration: none;
-	font-size: 14px;
-	padding: 10px 12px;
-	font-weight: 400;
+	font-size: 16px;
+	padding: 10px 25px;
 	border-style: solid;
-	border-color: #F47F63;
-	background-color: #F47F63;
+	border-color: #282828;
 	border-width: 4px;
 	-webkit-transition: all 120ms linear;
   	-moz-transition: all 120ms linear;
   	-o-transition: all 120ms linear;
 	-ms-transition: all 120ms linear;
 	transition: all 120ms linear;
-	text-align: center;
 }
 
 .btn-behance:hover {
@@ -248,20 +245,19 @@ a:hover, a:visited, a:link, a:active {
 
 .behanced { 
 	text-align: center;
-	color: grey;
-	padding-top: 3em;
-	padding-bottom: 3em;
+	color: #282828;
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
 .tools { 
- 	text-align: left;
-    line-height: .5rem;
-    font-size: 18px;
-    font-weight: 700;
-    letter-spacing: .1em;
-	padding-bottom: 1em;
-    margin: 1.25em;
+	font-size: 18px;
+    padding-bottom: .5em;
     display: block;
+	padding-right: 2em; 
+	padding-left: 2em;
+	text-align: center;
+	color: #282828;
 }
 
 #footer {
@@ -274,13 +270,12 @@ a:hover, a:visited, a:link, a:active {
 
 .talking-info { 
 	font-size: 18px;
-    font-weight: 500;
     padding-bottom: .5em;
     display: block;
 	padding-right: 2em; 
 	padding-left: 2em;
 	text-align: center;
-	color: 
+	color: #282828;
 }
 
 .footer-content {
@@ -292,7 +287,7 @@ a:hover, a:visited, a:link, a:active {
 .contact li {
 	font-size: 14px;
 	line-height: 1.5rem;
-	color: black;
+	color: #282828;
 	font-weight: 700;
 }
 
@@ -302,12 +297,12 @@ a:hover, a:visited, a:link, a:active {
 }
 
 #footer .email a{
-	color: black;
+	color: #282828;
 	text-decoration: none;
 	font-size: 20px;
 	padding: 8px 40px;
 	border-style: solid;
-	border-color: black;
+	border-color: #282828;
 	border-width: 4px;
 	-webkit-transition: all 120ms linear;
   	-moz-transition: all 120ms linear;
@@ -331,11 +326,11 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .copyright { 
-	color: white; 
+	color: #282828; 
 	font-size: 8pt;
 	font-weight: 400;
 	text-align: center;
-	padding-top: .5em;
+	padding-top: 2em;
 }
 
 .btt { 
@@ -376,7 +371,7 @@ a:hover, a:visited, a:link, a:active {
     display: block;
     width: 60px;
     height: 4px;
-    background: black;
+    background: #282828;
     margin: 0 auto;
     margin-top: -1.4rem;
 }
