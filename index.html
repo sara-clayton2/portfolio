@@ -10,7 +10,7 @@ changefreq: weekly
 	<div id="banner" class="banner" role="banner">
 		<h1 class="mainhead" itemprop="author">SARA CLAYTON</h1>	
 		<p class="sub-header" itemprop="genre">WEB/UI DESIGNER &amp; EXPERIENCE CRAFTER</p>
-		<p class="worked"><a class="btn-work" href="#work" aria-label="View my work">View my work</a></p>
+		<p class="worked"><a class="btn-work" href="#work" aria-label="View my work"></a></p>
 	</div>
 	
 	<div id="about" class="about-me">
@@ -29,7 +29,7 @@ changefreq: weekly
 {% for portfolio in site.data.portfolio-pieces %}
 	
 
-	<div class="portfolio-section portfolio-description">	
+	<div id="{{portfolio.id}}-top" class="portfolio-section portfolio-description">	
 		 <a href="#{{portfolio.id}}">
 			<div class="title">
 				<h2 itemprop="headline">{{portfolio.title}}</h2>
@@ -74,15 +74,15 @@ changefreq: weekly
 			</div>
 		</div>
 		
-		<a href="#{{portfolio.close}}"><img class="close" src="images/close.svg"></a>
+		<a href="#{{portfolio.id}}-top"><img class="close" src="images/close.svg"></a>
 	</div>
 
  {% endfor %}
 
 
-	<p class="behanced" role="button"><a class="btn-behance" href="https://www.behance.net/SaraClayton" aria-label="Check out my Behance"  >Check out my Behance</a></p>
+	<p class="behanced" role="button"><a class="btn-behance" href="https://www.behance.net/SaraClayton" aria-label="Check out my Behance">check out my Behance</a></p>
 
-	<div class="grid">
+	<div class="grid designing">
 		<div class="unit unit-s-1-2 unit-m-1-2 unit-l-1-2 gutter">
 			<img class="design-icons" src="images/userexp.svg" alt="icon about UX" itemprop="thumbnailUrl">
 			<h2 class="tools" itemprop="headline">Why I Design</h2>
