@@ -29,7 +29,7 @@ changefreq: weekly
 {% for portfolio in site.data.portfolio-pieces %}
 	
 
-	<div id="{{portfolio.id}}-top" class="portfolio-section portfolio-description">	
+	<div id="{{portfolio.id}}-top" class="portfolio-section portfolio-description" style="background-image: url({{site.baseurl}}/images/{{portfolio.bg}});">	
 		 <a href="#{{portfolio.id}}">
 			<div class="title">
 				<h2 itemprop="headline">{{portfolio.title}}</h2>

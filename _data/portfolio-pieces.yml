@@ -27,13 +27,13 @@
    process: "I started to research and write the content I wanted to address in the website and format it into content that could be easily understood by children who have little or no experience in coding. After, I produced a variety of sketches to layout my information and how I wanted the content to be graphically designed, as well as taking into consideration designing for different devices. Using html, css and javascript I coded a responsive website with interactive content that would engage kids and explain the basics of coding."
    heading3: ART DIRECTION
    artdirection: "This website is based around teaching youth to code. To make the website attractive for youth I created a color pallet of bright blues and yellows. To keep consistent with the theme I thought it would be a fun and educational way of teaching code by using illustrated images. The font was all sans serif because of the age demographic and small paragraphs. All visuals and content are fun, bubbly and energetic but are clean and flat designs to focus mainly on content."
-   images-process: images/placeholder.svg
+   images-process: images/kode-process.jpg
    images-process-alt: image of the wireframe for the kode website
    images-artdirection: images/kode-artdirection.svg
    images-artdirection-alt: images of sketches for the imagery and color schemes
    heading4: APPLICATION
    application: "The content was written specifically for youth so that it could easily be understood. Using the art direction I decided upon I brought in the illustrated images and made the content interactive to keep user engagment. All content is completely responsive and has accessability features. It is a single page website for easy flow and to ensure the user can accompany both content together."
-   images-application: images/kode-application.jpg
+   images-application: images/kode-application.png
    images-application-alt: images of the website in various devices
    images-layout: images/kodemockup2.jpg
    images-layout-alt: images of the mobile screens 
@@ -53,9 +53,9 @@
    images-artdirection-alt: image displaying the iconography for the weather app
    heading4: APPLICATION
    application: "Local weather updates:Accurate and updated weather information based on location. Suggested clothing:General clothing pieces that are paired together and suggested for the overall days forecast. Favourited items:Based on your previous clothing suggestions and the weather for the day the user can save the wardrobe to be suggested again during a similar forecast day."
-   images-application: images/placeholder.svg
+   images-application: images/weatherapp-art2.jpg
    images-application-alt: images showing the weather apps loading and initial screen in a a mobile device
-   images-layout: images/placeholder.svg
+   images-layout: images/weatherapp-art1.jpg
    images-layout-alt: image of the interior of the app 
    
 -  title: Learning Touch Canada
@@ -76,22 +76,43 @@
    images-application-alt: Image of the initial Learning Touch Canada app before the redesign
    images-layout: images/placeholder.svg
    images-layout-alt: image of the newly designed version of the Learning Touch Canada application
+   bg: 
    
 -  title: Isometric Illustration 
    id: isometric-illustration
    classification: ILLUSTRATOR 
    heading1: DEFINITION
-   definition: An isometric illustration using Illustrator displaying the process of creating a mobile app. 
+   definition: "An isometric illustration using Illustrator displaying the process of creating a mobile app." 
    heading2: PROCESS 
-   process: I began by researching and sketching isometric illustrations that displayed a process and the actions that would be performed during each process. 
+   process: "I began by researching and sketching isometric illustrations that displayed a process and the actions that would be performed during each process. To create an isometric pieces I had to set up action buttons within Illustrator to make the perspective correct and to have each piece properly aligned."
    heading3: ART DIRECTION 
-   artdirection: I decided to go with a colour pallet that was simple and modern, consisting of grey scales with hints of bold colours. 
+   artdirection: "I decided to go with a colour pallet that was simple and modern, consisting of bright bold colors."  
    images-process: images/placeholder.svg
    images-process-alt: images of the initial sketches on a grid template for the isometric illustration
-   images-artdirection: images/placeholder.svg
+   images-artdirection: images/isometric-art1.jpg
    images-artdirection-alt: image of the color schemes for the isometric illustration
    heading4: APPLICATION
-   images-application: images/placeholder.svg
+   images-application: images/isometric-artwork1.jpg
    images-application-alt: image of the isometric illustration final piece
-   images-layout: images/placeholder.svg
+   images-layout: images/isometric-artwork2.jpg
    images-layout-alt: images of upclose snippets from the isometric illustraion
+   
+-  title: DropIt 
+   id: dropit
+   classification: UX / UI design
+   heading1: DEFINITION
+   definition: "An application that aims towards solving one of the Global Goals: Goal 6 Clean water and Sanitation. This is a donation app that makes giving up a luxury give someone in the developing country of Sub-Sahara Africa a necessity.  "
+   heading2: PROCESS 
+   process: "I wanted to create an application that will help with clean water and sanitation within developing countries. In order to understand who I wanted to target and how I was going to target them I did some research to better understand what needed to be done. I began with an idea of "
+   heading3: ART DIRECTION 
+   artdirection: I decided to go with a colour pallet that was simple and modern, consisting of bright bold colors.  
+   images-process: images/placeholder.svg
+   images-process-alt: images of the initial sketches on a grid template for the isometric illustration
+   images-artdirection: images/isometric-art1.jpg
+   images-artdirection-alt: image of the color schemes for the isometric illustration
+   heading4: APPLICATION
+   images-application: images/isometric-artwork1.jpg
+   images-application-alt: image of the isometric illustration final piece
+   images-layout: images/isometric-artwork2.jpg
+   images-layout-alt: images of upclose snippets from the isometric illustraion
+   
