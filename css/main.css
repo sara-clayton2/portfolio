@@ -176,13 +176,13 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .portfolio-section :hover {
-    background-color: #E0E0E0; 
+    background-color: #F4D6BA; 
 	color: grey;
 }
 
 .title {
 	text-align: center;
-	background-color: grey;
+	background-color:#F9B163;
 	padding: 1em;	
 }
 
@@ -431,7 +431,7 @@ a:hover, a:visited, a:link, a:active {
 
 .close { 
 	display: block;
-	width: 2em;
+	width: 4em;
 	padding-bottom: 2em; 
 	padding-top: 2em;
 	

@@ -101,18 +101,22 @@
    id: dropit
    classification: UX / UI design
    heading1: DEFINITION
-   definition: "An application that aims towards solving one of the Global Goals: Goal 6 Clean water and Sanitation. This is a donation app that makes giving up a luxury give someone in the developing country of Sub-Sahara Africa a necessity.  "
+   definition: "An application that aims towards solving one of the Global Goals: Goal 6 Clean water and Sanitation. This is a donation app that makes giving up a luxury give someone in the developing country of Sub-Sahara Africa a necessity. The donations will specifically go towards helping provide communities with clean and convenient drinking water by implementing a well system. Another benefit is providing proper sanitation such as washrooms with proper hand washing stations. Both these actions will help decrease deaths caused by unclean water and improper hygiene practices and promote education for girls. 
+
+The user will be the ones directly donating money towards helping assist organizations with donations. The app DropIt stands behind the philosophy of giving up a luxury so you will make a positive change in another persons life who is need of basic essentials. 
+
+DropIt increases financial awareness towards the user and makes there decisions of giving up something impact someone else in a positive way. Based on the item you give up for the day you donate a percentage of what its value is generalized at. This allows there to be an incentive for yourself that your saving money,  as well as knowing you are doing good by donating a portion of it. All the donations will be stored up until you wish to select how much you want to donate. "
    heading2: PROCESS 
-   process: "I wanted to create an application that will help with clean water and sanitation within developing countries. In order to understand who I wanted to target and how I was going to target them I did some research to better understand what needed to be done. I began with an idea of "
-   heading3: ART DIRECTION 
-   artdirection: I decided to go with a colour pallet that was simple and modern, consisting of bright bold colors.  
-   images-process: images/placeholder.svg
-   images-process-alt: images of the initial sketches on a grid template for the isometric illustration
-   images-artdirection: images/isometric-art1.jpg
-   images-artdirection-alt: image of the color schemes for the isometric illustration
+   process: "To be able to help with a global goal it was important to understand who and where would be best to target and would actually have an impact on goal 6. I reserached specific areas in developing countries that were behind and would not reach the desired goals by 2030, this lead me to Sub- Sahara Africa. I then specifically targeted ideas that would make a difference with the communities; clean water and sanitation also leads to an increase of women getting proper education."
+   heading3: PROCESS 
+   artdirection: "When creating the app I presented a concept model that would display how the user would reach each end result when using the app. I then sketched out wireframes and a user flow that displayed how content would be navigated through and displayed. After all content was correct I brought the wireframes into Invision where I was able to user test my app and get feedback. " 
+   images-process: images/dropitresearch.jpg
+   images-process-alt: images of the target audiance and research
+   images-artdirection: images/placeholder.svg
+   images-artdirection-alt: image of the wireframe and user flow 
    heading4: APPLICATION
-   images-application: images/isometric-artwork1.jpg
-   images-application-alt: image of the isometric illustration final piece
-   images-layout: images/isometric-artwork2.jpg
-   images-layout-alt: images of upclose snippets from the isometric illustraion
+   images-application: images/dropit-art1.jpg
+   images-application-alt: image of DropIt app
+   images-layout: images/dropit-art1.jpg
+   images-layout-alt: images of DropIt app 
    
