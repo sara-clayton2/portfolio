@@ -47,9 +47,9 @@
    process: "In order to create content for the app, I created a flow chart about a persons experience and pain points for waking up and finding an approprite wardrobe choice while guessing how their decision in clothing will impact them during the changing tempatures throught the day. To resolve this issue I began gathering content that would help the user with these pain points. In Illustrator I created a flow chart and wireframe of my app which was later tested in Invision. I also did usability testing where a group of peers and myself tested the interaction of the app to ensure all content had a nice flow and could properly be obtained."
    heading3: ART DIRECTION
    artdirection: "When you think weather you have a different reaction depending on if the day is bright and sunny or dull and rainy. When creating the color pallet for this weather app I wanted to relate content and emotions with colors. All users are visual and having the various colors associate with its content creates a good experience ( eg: sunny with yellows, rainy with greys, cloudy with blues )."
-   images-process: images/placeholder.svg
+   images-process: images/weatherapp-research.jpg
    images-process-alt: images displaying the wireframe of the content for the weather app
-   images-artdirection: images/placeholder.svg
+   images-artdirection: images/weatherapp-artdirection.jpg
    images-artdirection-alt: image displaying the iconography for the weather app
    heading4: APPLICATION
    application: "Local weather updates:Accurate and updated weather information based on location. Suggested clothing:General clothing pieces that are paired together and suggested for the overall days forecast. Favourited items:Based on your previous clothing suggestions and the weather for the day the user can save the wardrobe to be suggested again during a similar forecast day."

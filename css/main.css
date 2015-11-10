@@ -223,8 +223,6 @@ a:hover, a:visited, a:link, a:active {
 .placeholder { 
 	padding: 0; 
 	margin: 0;
-	width: 500px; 
-	height: auto;
 	text-align: center;
 }
 
