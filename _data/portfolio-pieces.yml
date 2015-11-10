@@ -29,7 +29,7 @@
    artdirection: "This website is based around teaching youth to code. To make the website attractive for youth I created a color pallet of bright blues and yellows. To keep consistent with the theme I thought it would be a fun and educational way of teaching code by using illustrated images. The font was all sans serif because of the age demographic and small paragraphs. All visuals and content are fun, bubbly and energetic but are clean and flat designs to focus mainly on content."
    images-process: images/placeholder.svg
    images-process-alt: image of the wireframe for the kode website
-   images-artdirection: images/kode-artdirection.jpg
+   images-artdirection: images/kode-artdirection.svg
    images-artdirection-alt: images of sketches for the imagery and color schemes
    heading4: APPLICATION
    application: "The content was written specifically for youth so that it could easily be understood. Using the art direction I decided upon I brought in the illustrated images and made the content interactive to keep user engagment. All content is completely responsive and has accessability features. It is a single page website for easy flow and to ensure the user can accompany both content together."
@@ -76,23 +76,6 @@
    images-application-alt: Image of the initial Learning Touch Canada app before the redesign
    images-layout: images/placeholder.svg
    images-layout-alt: image of the newly designed version of the Learning Touch Canada application
-   
--  title: TV Broadcast Package
-   id: tv-Broadcast
-   classification: MOTION
-   heading1: DEFINITION
-   definition: "Concept for a television network. Includes a broadcast package with title reveal, lower thirds, sidebar animation and transitions."
-   heading2: PROCESS
-   heading3: ART DIRECTION
-   images-process: images/placeholder.svg
-   images-process-alt: image of the screen sketches for the process of designing the broadcast package
-   images-artdirection: images/placeholder.svg
-   images-artdirection-alt: image of the style board displaying art direction for the broadcast package
-   heading4: APPLICATION
-   images-application: images/placeholder2.svg
-   images-application-alt: about this content
-   images-layout: images/placeholder2.svg
-   images-layout-alt: about this content
    
 -  title: Isometric Illustration 
    id: isometric-illustration
