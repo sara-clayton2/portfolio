@@ -6,16 +6,16 @@
    heading2: PROCESS
    process: "In order to create content for the app I created a flow chart about a persons experience at the zoo, I focused mainly on pain points the user would come across and how they could be resolved. After narrowing down three main pain points I created personas of potential people who would be using this app and content that would increase the users experience. I wireframed content and created a flow chart in Illustrator of the apps interaction. The wireframe was brought into invision where I was able to test the app to ensure a positive user experience."
    heading3: ART DIRECTION
-   artdirection: "I created a mood board with the main target audiance being families that love the outdoors and wildlife. My typography was going to be the standard Roboto in order for users to easily read content. I wanted to create small icons to be used for the animal sections that way all ages can easily identify the content. I created a color pallet that would resemble an outdoor theme using greens, browns and blues."
-   images-process: images/placeholder.svg
+   artdirection: "I created a mood board with the main target audiance being families that love the outdoors and wildlife. My typography was going to be the standard Roboto font in order for users to easily read content. I wanted to create small icons to be used for the animal sections that way all ages can easily identify the content. I created a color pallet that would resemble an outdoor theme using greens, browns and blues."
+   images-process: images/zooapp-process.jpg
    images-process-alt: an image showing the wireframe process for the zoo app
-   images-artdirection: images/placeholder.svg
+   images-artdirection: images/Zooapp-artdirection.jpg
    images-artdirection-alt: images showing color scheme and iconography for zoo app
    heading4: APPLICATION
    application: "Finding where animals are An easily accessible map where the user can search animals and be directed to there location using pointers. Participating in events at the zoo The app is updated with events that are being held at the zoo around the lobby or animal interactions. This will help ensure user interation with the zoo and mobile device are connected. Information about animals The average zoo contains 1,258 different species of animals. When the user is at an exhibit they can search the animal by general to specific categories which will produce information about the specific animal."	
-   images-application: images/placeholder.svg
+   images-application: images/zooapp-final1.jpg
    images-application-alt: screens displaying the zoo app features
-   images-layout: images/placeholder.svg
+   images-layout: images/zooapp-final2.jpg
    images-layout-alt: screens displaying the zoo app features
    
 -  title: .Kode 
