@@ -78,10 +78,17 @@ a:hover, a:visited, a:link, a:active {
 	display: block;
 }
 
+.titlehead { 
+	text-align: center;
+	color: white;
+	letter-spacing: 2px;
+}
+
 .mainhead { 
 	text-align: center;
 	color: #282828;
 }
+
 
 .sub-header { 
 	font-size: 16px;
@@ -91,24 +98,26 @@ a:hover, a:visited, a:link, a:active {
 	text-align: center;
 	padding-right: 1em; 
 	padding-left: 1em;
+	color: white;
+	letter-spacing: 2px;
 }
 
 .banner { 
 	padding-top: 7em;
 	padding-bottom: 7em;
-	background-image: url(../images/Isometric%20.jpg);
+	background-color: grey;
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .btn-work {
-	color: #474949;
+	color: white; 
 	text-decoration: none;
 	font-size: 18px;
 	padding: 10px 25px;
 	border-style: solid;
-	border-color: #474949;
+	border-color: white;
 	border-width: 4px;
 	-webkit-transition: all 120ms linear;
   	-moz-transition: all 120ms linear;
@@ -123,9 +132,10 @@ a:hover, a:visited, a:link, a:active {
 
 .worked { 
 	text-align: center;
-	color: #474949;
+	color: white;
 	padding-top: 2em;
 	padding-bottom: 2em;
+	letter-spacing: 1px;
 }
 
 .about { 
@@ -167,6 +177,7 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .portfolio-section {
+	color: white;
 	background-color: grey;
 	-webkit-transition: all 120ms linear;
   	-moz-transition: all 120ms linear;
@@ -176,13 +187,11 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .portfolio-section :hover {
-    background-color: #F4D6BA; 
-	color: grey;
+	color: #CCCAC8;
 }
 
 .title {
 	text-align: center;
-	background-color:#F9B163;
 	padding: 1em;	
 }
 
@@ -228,6 +237,7 @@ a:hover, a:visited, a:link, a:active {
 
 .btn-behance {
 	color: #282828;
+	background-color: #282828;
 	text-decoration: none;
 	font-size: 16px;
 	padding: 10px 25px;
@@ -239,6 +249,7 @@ a:hover, a:visited, a:link, a:active {
   	-o-transition: all 120ms linear;
 	-ms-transition: all 120ms linear;
 	transition: all 120ms linear;
+	letter-spacing: 1px;
 }
 
 .btn-behance:hover {
@@ -247,7 +258,7 @@ a:hover, a:visited, a:link, a:active {
 
 .behanced { 
 	text-align: center;
-	color: #282828;
+	color: white;
 	padding-top: 2em;
 	padding-bottom: 2em;
 }

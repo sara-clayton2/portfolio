@@ -17,6 +17,7 @@
    images-application-alt: screens displaying the zoo app features
    images-layout: images/zooapp-final2.jpg
    images-layout-alt: screens displaying the zoo app features
+   bg: zootitle.jpg
    
 -  title: .Kode 
    id: kode
@@ -33,10 +34,11 @@
    images-artdirection-alt: images of sketches for the imagery and color schemes
    heading4: APPLICATION
    application: "The content was written specifically for youth so that it could easily be understood. Using the art direction I decided upon I brought in the illustrated images and made the content interactive to keep user engagment. All content is completely responsive and has accessability features. It is a single page website for easy flow and to ensure the user can accompany both content together."
-   images-application: images/kode-application.png
+   images-application: images/kode mockup.png
    images-application-alt: images of the website in various devices
-   images-layout: images/kodemockup2.jpg
+   images-layout: images/kodemockup2.png
    images-layout-alt: images of the mobile screens 
+   bg: kodetitle.jpg
    
 -  title: WeatherWear
    id: weatherwear
@@ -57,6 +59,7 @@
    images-application-alt: images showing the weather apps loading and initial screen in a a mobile device
    images-layout: images/weatherapp-art1.jpg
    images-layout-alt: image of the interior of the app 
+   bg: weathertitle.jpg
    
 -  title: Learning Touch Canada
    id: learning-touch-canada
@@ -76,7 +79,7 @@
    images-application-alt: Image of the initial Learning Touch Canada app before the redesign
    images-layout: images/placeholder.svg
    images-layout-alt: image of the newly designed version of the Learning Touch Canada application
-   bg: 
+   bg: learningtitle.jpg
    
 -  title: Isometric Illustration 
    id: isometric-illustration
@@ -87,15 +90,16 @@
    process: "I began by researching and sketching isometric illustrations that displayed a process and the actions that would be performed during each process. To create an isometric pieces I had to set up action buttons within Illustrator to make the perspective correct and to have each piece properly aligned."
    heading3: ART DIRECTION 
    artdirection: "I decided to go with a colour pallet that was simple and modern, consisting of bright bold colors."  
-   images-process: images/placeholder.svg
+   images-process: images/isometric-process1.jpg
    images-process-alt: images of the initial sketches on a grid template for the isometric illustration
-   images-artdirection: images/isometric-art1.jpg
+   images-artdirection: images/isometric-art1.png
    images-artdirection-alt: image of the color schemes for the isometric illustration
    heading4: APPLICATION
-   images-application: images/isometric-artwork1.jpg
+   images-application: images/isometric-artwork1.png
    images-application-alt: image of the isometric illustration final piece
-   images-layout: images/isometric-artwork2.jpg
+   images-layout: images/isometric-artwork2.png
    images-layout-alt: images of upclose snippets from the isometric illustraion
+   bg: isotitle.jpg
    
 -  title: DropIt 
    id: dropit
@@ -119,4 +123,5 @@ DropIt increases financial awareness towards the user and makes there decisions 
    images-application-alt: image of DropIt app
    images-layout: images/dropit-art1.jpg
    images-layout-alt: images of DropIt app 
+   bg: dropittitle.jpg
    
