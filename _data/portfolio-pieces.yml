@@ -67,17 +67,17 @@
    heading1: DEFINITION
    definition: "Re-design for a Windows app called Learning Touch Canada an education app where users learn to identify the flags, capital cities, provinces and territories of Canada with a set of simple matching games."
    heading2: PROCESS
-   process: "Learning Touch Canada has a successful interaction and user experience; being rated a 4/5 star on the Microsoft Store. The app was designed with minimal graphic styles and color palletes. Knowing the creator of the app I was able to speak with him about the direction and vision he had for the design and content layout. After gathering primary research I was able to branch out and look at other successful Windows apps and collect popular and trending graphic styles and layouts that were successfully interpreting data while creating a clean and beautiful design."
+   process: "Learning Touch Canada has a successful interaction and user experience; being rated a 4/5 star on the Microsoft Store. The app was designed with minimal graphic styles and color palletes. Knowing the creator of the app I was able to speak with him about the direction and vision he had for the design and content layout. After gathering primary research I was able to branch out and look at other successful Windows apps and collect popular and trending graphic styles and layouts that were successfully interpreting data while creating a clean and beautiful design. Below are examples of the layout and design before the re-design"
    heading3: ART DIRECTION
    artdirection: "The content for this app is educational and having a large amount of iconography, colors and images would take away from the important information. I decided to steer clear of anything distruptive or distractive by keeping my color pallet simple of just red tones and having any icons used, as a flat design. All flags were converted to illustrated images and I decided to restylize the map into a more attractive design."
-   images-process: images/placeholder.svg
+   images-process: images/learning-process.png
    images-process-alt: images of the sketches of the newly developed concept for Learning Touch Canada
-   images-artdirection: images/placeholder.svg
+   images-artdirection: images/learning-artdirection.jpg
    images-artdirection-alt: images for the colors used in the Learning Touch Canada
    heading4: APPLICATION
-   images-application: images/placeholder.svg
+   images-application: images/learning-mockup1.svg
    images-application-alt: Image of the initial Learning Touch Canada app before the redesign
-   images-layout: images/placeholder.svg
+   images-layout: images/learning-mockup2.svg
    images-layout-alt: image of the newly designed version of the Learning Touch Canada application
    bg: learningtitle.jpg
    
