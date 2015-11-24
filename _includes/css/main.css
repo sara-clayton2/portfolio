@@ -63,13 +63,13 @@ a:hover, a:visited, a:link, a:active {
 .nav a { 
 	color: #282828;
 	font-size: 14pt;
-    border-bottom: 3px solid #eee;
+    border-bottom: 3px solid #fff;
 }
 
 
 .nav a:hover { 
-	color: black;
-    border-bottom: 3px solid #95D6E5;
+	color: #F9B163;
+    border-bottom: 3px solid #F9B163;
 } 
 
 .wordmark { 
@@ -148,7 +148,7 @@ a:hover, a:visited, a:link, a:active {
 
 .about-me { 
 	padding: 2em;
-	background-color: #95D6E5;
+	background-color: #F9B163;
 }
 
 .info { 
@@ -259,7 +259,6 @@ a:hover, a:visited, a:link, a:active {
   	-o-transition: all 120ms linear;
 	-ms-transition: all 120ms linear;
 	transition: all 120ms linear;
-	letter-spacing: 1px;
 }
 
 .btn-behance:hover {
