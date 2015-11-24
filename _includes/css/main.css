@@ -105,17 +105,17 @@ a:hover, a:visited, a:link, a:active {
 .banner { 
 	padding-top: 7em;
 	padding-bottom: 7em;
-	background-image: url(../images/banner.png);
+	background-image: url(../images/banner2.png);
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .btn-work {
-	color: white; 
+	color: white;
 	text-decoration: none;
 	font-size: 18px;
-	padding: 10px 25px;
+	padding: 8px 40px;
 	border-style: solid;
 	border-color: white;
 	border-width: 4px;
@@ -128,14 +128,6 @@ a:hover, a:visited, a:link, a:active {
 
 .btn-work:hover {
     opacity: .8; 
-}
-
-.worked { 
-	text-align: center;
-	color: white;
-	padding-top: 2em;
-	padding-bottom: 2em;
-	letter-spacing: 1px;
 }
 
 .about { 
@@ -188,6 +180,7 @@ a:hover, a:visited, a:link, a:active {
 
 .portfolio-section :hover {
 	color: #CCCAC8;
+	background-color: #282828;
 }
 
 .title {
@@ -243,33 +236,6 @@ a:hover, a:visited, a:link, a:active {
 	width: 70%; 
 	height: auto;
 	text-align: center;
-}
-
-.btn-behance {
-	color: #282828;
-	background-color: #282828;
-	text-decoration: none;
-	font-size: 16px;
-	padding: 10px 25px;
-	border-style: solid;
-	border-color: #282828;
-	border-width: 4px;
-	-webkit-transition: all 120ms linear;
-  	-moz-transition: all 120ms linear;
-  	-o-transition: all 120ms linear;
-	-ms-transition: all 120ms linear;
-	transition: all 120ms linear;
-}
-
-.btn-behance:hover {
-    opacity: .4; 
-}
-
-.behanced { 
-	text-align: center;
-	color: white;
-	padding-top: 2em;
-	padding-bottom: 2em;
 }
 
 .tools { 
@@ -335,6 +301,29 @@ a:hover, a:visited, a:link, a:active {
 
 #footer p a:hover {
 	opacity: .4;   
+}
+
+.links { 
+	color: #282828;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 8px 40px;
+	border-style: solid;
+	border-color: #282828;
+	border-width: 4px;
+	-webkit-transition: all 120ms linear;
+  	-moz-transition: all 120ms linear;
+  	-o-transition: all 120ms linear;
+	-ms-transition: all 120ms linear;
+	transition: all 120ms linear;
+}
+
+.pad { 
+	padding: 2em;
+}
+
+.links:hover { 
+	opacity: .4; 
 }
 
 .icon { 
