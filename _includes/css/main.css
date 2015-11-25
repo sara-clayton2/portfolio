@@ -68,7 +68,6 @@ a:hover, a:visited, a:link, a:active {
 
 
 .nav a:hover { 
-	color: #F9B163;
     border-bottom: 3px solid #F9B163;
 } 
 
