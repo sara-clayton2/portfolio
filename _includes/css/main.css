@@ -209,7 +209,7 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .portfolio-text-align {
-	text-align: left;
+	text-align: center;
 }
 
 .initial-description {
@@ -224,7 +224,7 @@ a:hover, a:visited, a:link, a:active {
 .placeholder { 
 	padding: 0; 
 	margin: 0;
-	width: 90%; 
+	width: 100%; 
 	height: auto;
 	text-align: center;
 }
@@ -232,7 +232,7 @@ a:hover, a:visited, a:link, a:active {
 .placeholdertwo { 
 	padding: 0; 
 	margin: 0;
-	width: 70%; 
+	width: 100%; 
 	height: auto;
 	text-align: center;
 }
