@@ -492,6 +492,7 @@ a:hover, a:visited, a:link, a:active {
 	text-align: center;
 	text-decoration: none;
 	padding: .15em;
+	padding-bottom: .75em;
 }
 
 .sub-broken { 
@@ -506,4 +507,19 @@ a:hover, a:visited, a:link, a:active {
 	margin: 0; 
 	padding-bottom: 5em;
 	padding-top: 5em;
+}
+
+
+.broken-section { 
+	text-align: center;
+	color: #fff;
+}
+
+.light-border {
+    display: block;
+    width: 60px;
+    height: 4px;
+    background: #fff;
+    margin: 0 auto;
+    margin-top: -1.4rem;
 }
