@@ -478,3 +478,15 @@ a:hover, a:visited, a:link, a:active {
 	width: 50%;
 	height: auto;
 }
+
+.whoops{ 
+	color: #282828;
+	font-size: 20pt;
+	text-align: center;
+}
+
+.reasons{ 
+	color: #282828;
+	font-size: 14pt;
+	text-align: center;
+}
