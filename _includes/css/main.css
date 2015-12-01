@@ -105,6 +105,7 @@ a:hover, a:visited, a:link, a:active {
 	padding-top: 7em;
 	padding-bottom: 7em;
 	background-image: url(../images/banner2.png);
+	background-color: #282828;
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
