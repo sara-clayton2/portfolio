@@ -473,3 +473,8 @@ a:hover, a:visited, a:link, a:active {
 .designing { 
 	background-color: #95D6E5;
 }
+
+.broken { 
+	width: 50%;
+	height: auto;
+}
