@@ -34,9 +34,9 @@
    images-artdirection-alt: images of sketches for the imagery and color schemes
    heading4: APPLICATION
    application: "The content was written specifically for youth so that it could easily be understood. Using the art direction I decided upon I brought in the illustrated images and made the content interactive to keep user engagment. All content is completely responsive and has accessability features. It is a single page website for easy flow and to ensure the user can accompany both content together."
-   images-application: images/kodemockup.png
+   images-application: images/kodemockup2.png
    images-application-alt: images of the website in various devices
-   images-layout: images/kodemockup2.png
+   images-layout: images/kodemockup.png
    images-layout-alt: images of the mobile screens 
    bg: kodetitle.jpg
    
