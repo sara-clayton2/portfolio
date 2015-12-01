@@ -477,16 +477,33 @@ a:hover, a:visited, a:link, a:active {
 .broken { 
 	width: 50%;
 	height: auto;
-}
-
-.whoops{ 
-	color: #282828;
-	font-size: 20pt;
 	text-align: center;
 }
 
-.reasons{ 
-	color: #282828;
-	font-size: 14pt;
+.reasons { 
+	color: #fff;
+	font-size: 12pt;
 	text-align: center;
+}
+
+.reasonslist { 
+	color: #fff;
+	font-size: 12pt;
+	text-align: center;
+	text-decoration: none;
+	padding: .15em;
+}
+
+.sub-broken { 
+	font-weight: 600;
+	text-align: center;
+	color: #fff;
+	font-size: 18pt;
+}
+
+.brokenpage { 
+	background-color: #282828;
+	margin: 0; 
+	padding-bottom: 5em;
+	padding-top: 5em;
 }
