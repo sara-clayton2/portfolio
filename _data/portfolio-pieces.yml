@@ -114,14 +114,14 @@ DropIt increases financial awareness towards the user and makes there decisions 
    process: "To be able to help with a global goal it was important to understand who and where would be best to target and would actually have an impact on goal 6. I reserached specific areas in developing countries that were behind and would not reach the desired goals by 2030, this lead me to Sub- Sahara Africa. I then specifically targeted ideas that would make a difference with the communities; clean water and sanitation also leads to an increase of women getting proper education."
    heading3: PROCESS 
    artdirection: "When creating the app I presented a concept model that would display how the user would reach each end result when using the app. I then sketched out wireframes and a user flow that displayed how content would be navigated through and displayed. After all content was correct I brought the wireframes into Invision where I was able to user test my app and get feedback. " 
-   images-process: images/dropitresearch.jpg
+   images-process: images/dropitresearch.png
    images-process-alt: images of the target audiance and research
-   images-artdirection: images/waterplaceholder.jpg
+   images-artdirection: images/artdirection.png
    images-artdirection-alt: image of the wireframe and user flow 
    heading4: APPLICATION
-   images-application: images/dropit-art1.jpg
+   images-application: images/dropit-art2-01.png
    images-application-alt: image of DropIt app
-   images-layout: images/dropit-art2.jpg
+   images-layout: images/dropit-art1-01.png
    images-layout-alt: images of DropIt app 
    bg: dropittitle.jpg
    
