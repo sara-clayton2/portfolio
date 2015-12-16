@@ -102,9 +102,9 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .banner { 
-	padding-top: 2em;
+	padding-top: 18em;
 	padding-bottom: 7em;
-	background-image: url(../images/banner2.png);
+	background-image: url(../images/mainbanner.svg);
 	background-color: #282828;
 	background-position: center center;
 	background-size: cover;
@@ -440,7 +440,7 @@ a:hover, a:visited, a:link, a:active {
 		padding-right: 15em;
 	}
 	.banner { 
-	padding-top: 10em;
+	padding-top: 28em;
 	padding-bottom: 7em;
 }
 
