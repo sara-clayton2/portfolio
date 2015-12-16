@@ -439,6 +439,11 @@ a:hover, a:visited, a:link, a:active {
 		padding-left: 15em; 
 		padding-right: 15em;
 	}
+	.banner { 
+	padding-top: 18em;
+	padding-bottom: 7em;
+}
+
 }
 
 .content {
