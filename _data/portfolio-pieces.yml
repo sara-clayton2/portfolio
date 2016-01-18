@@ -1,21 +1,21 @@
--  title: Zoo App 
+-  title: Zooby
    id: zoo-app
    classification: UX/UI Design
    heading1: DEFINITION
-   definition: "The purpose of this design is to create a user friendly mobile app for users to navigate through a zoo and find information about animals and events."
-   heading2: PROCESS
-   process: "In order to create content for the app I created a flow chart about a persons experience at the zoo, I focused mainly on pain points the user would come across and how they could be resolved. After narrowing down three main pain points I created personas of potential people who would be using this app and content that would increase the users experience. I wireframed content and created a flow chart in Illustrator of the apps interaction. The wireframe was brought into invision where I was able to test the app to ensure a positive user experience."
-   heading3: ART DIRECTION
-   artdirection: "I created a mood board with the main target audiance being families that love the outdoors and wildlife. My typography was going to be the standard Roboto font in order for users to easily read content. I wanted to create small icons to be used for the animal sections that way all ages can easily identify the content. I created a color pallet that would resemble an outdoor theme using greens, browns and blues."
+   definition: "Zooby is an android mobile app that helps users navigate through a zoo, find information about animals and find events going on within the zoo."
+   heading2: STEP 1  research 
+   process: "The application is specifically designed for fast and convenient interaction and communication. Before everything it was necessary to understand the user and target audiance to ensure an effective application. In order to establish hierarchy and ensure Zooby is user friendly I created a flow chart and wireframes to map out usability as well as to later test in Invision."
+   heading3:  STEP 2  brand language
+   artdirection: "The desired sensibilities of the app were honed in upon with a series of mood boards. From there I established the initial creative look-and-feel of the app. The final result was a bold, fun nature inspired color pallet with icons designed through illustrator that would engage families in an educational, fun, enviornmental based setting."
    images-process: images/zoo-research.png
    images-process-alt: an image showing the wireframe process for the zoo app
-   images-artdirection: images/zoo-art.png
+   images-artdirection: images/zoo-arts.png
    images-artdirection-alt: images showing color scheme and iconography for zoo app
-   heading4: APPLICATION
-   application: "Finding where animals are An easily accessible map where the user can search animals and be directed to there location using pointers. Participating in events at the zoo The app is updated with events that are being held at the zoo around the lobby or animal interactions. This will help ensure user interation with the zoo and mobile device are connected. Information about animals The average zoo contains 1,258 different species of animals. When the user is at an exhibit they can search the animal by general to specific categories which will produce information about the specific animal."	
-   images-application: images/zooapp-final2.png
+   heading4: STEP 3 APPLICATION
+   application: 
+   images-application: images/zoo-final1.png
    images-application-alt: screens displaying the zoo app features
-   images-layout: images/zoo-final1.png
+   images-layout: images/zooapp-final2.png
    images-layout-alt: screens displaying the zoo app features
    bg: zootitle.jpg
    
@@ -24,9 +24,9 @@
    classification: HTML CSS AND JAVASCRIPT
    heading1: DEFINITION
    definition: "An interactive and responsive website for kids to learn the basics of html and css and how it can be applied to create their own website."
-   heading2: PROCESS
+   heading2: STEP 1  research  
    process: "I started to research and write the content I wanted to address in the website and format it into content that could be easily understood by children who have little or no experience in coding. After, I produced a variety of sketches to layout my information and how I wanted the content to be graphically designed, as well as taking into consideration designing for different devices. Using html, css and javascript I coded a responsive website with interactive content that would engage kids and explain the basics of coding."
-   heading3: ART DIRECTION
+   heading3: STEP 2  brand language
    artdirection: "This website is based around teaching youth to code. To make the website attractive for youth I created a color pallet of bright blues and yellows. To keep consistent with the theme I thought it would be a fun and educational way of teaching code by using illustrated images. The font was all sans serif because of the age demographic and small paragraphs. All visuals and content are fun, bubbly and energetic but are clean and flat designs to focus mainly on content."
    images-process: images/kode-research.png
    images-process-alt: image of the wireframe for the kode website
@@ -45,9 +45,9 @@
    classification: UX / UI DESIGN
    heading1: DEFINITION
    definition: "WeatherWear is a mobile app that connects the user to the local weather forecast and offers suggestions of comfortable and appropriate wardrobe choices for that day."
-   heading2: PROCESS
+   heading2: STEP 1  research 
    process: "In order to create content for the app, I created a flow chart about a persons experience and pain points for waking up and finding an approprite wardrobe choice while guessing how their decision in clothing will impact them during the changing tempatures throught the day. To resolve this issue I began gathering content that would help the user with these pain points. In Illustrator I created a flow chart and wireframe of my app which was later tested in Invision. I also did usability testing where a group of peers and myself tested the interaction of the app to ensure all content had a nice flow and could properly be obtained."
-   heading3: ART DIRECTION
+   heading3: STEP 2  brand language
    artdirection: "When you think weather you have a different reaction depending on if the day is bright and sunny or dull and rainy. When creating the color pallet for this weather app I wanted to relate content and emotions with colors. All users are visual and having the various colors associate with its content creates a good experience ( eg: sunny with yellows, rainy with greys, cloudy with blues )."
    images-process: images/weather-research.png
    images-process-alt: images displaying the wireframe of the content for the weather app
@@ -66,9 +66,9 @@
    classification: UX / UI DESIGN
    heading1: DEFINITION
    definition: "Re-design for a Windows app called Learning Touch Canada an education app where users learn to identify the flags, capital cities, provinces and territories of Canada with a set of simple matching games."
-   heading2: PROCESS
+   heading2: STEP 1  research
    process: "Learning Touch Canada has a successful interaction and user experience; being rated a 4/5 star on the Microsoft Store. The app was designed with minimal graphic styles and color palletes. Knowing the creator of the app I was able to speak with him about the direction and vision he had for the design and content layout. After gathering primary research I was able to branch out and look at other successful Windows apps and collect popular and trending graphic styles and layouts that were successfully interpreting data while creating a clean and beautiful design. Below are examples of the layout and design before the re-design"
-   heading3: ART DIRECTION
+   heading3: STEP 2  brand language
    artdirection: "The content for this app is educational and having a large amount of iconography, colors and images would take away from the important information. I decided to steer clear of anything distruptive or distractive by keeping my color pallet simple of just red tones and having any icons used, as a flat design. All flags were converted to illustrated images and I decided to restylize the map into a more attractive design."
    images-process: images/learning-initial.png
    images-process-alt: images of the sketches of the newly developed concept for Learning Touch Canada
@@ -86,9 +86,9 @@
    classification: ILLUSTRATOR 
    heading1: DEFINITION
    definition: "An isometric illustration using Illustrator displaying the process of creating a mobile app." 
-   heading2: PROCESS 
+   heading2: STEP 1 research
    process: "I began by researching and sketching isometric illustrations that displayed a process and the actions that would be performed during each process. To create an isometric pieces I had to set up action buttons within Illustrator to make the perspective correct and to have each piece properly aligned."
-   heading3: ART DIRECTION 
+   heading3: STEP 2  brand language
    artdirection: "I decided to go with a colour pallet that was simple and modern, consisting of bright bold colors."  
    images-process: images/iso-sketch.png
    images-process-alt: images of the initial sketches on a grid template for the isometric illustration
@@ -110,9 +110,9 @@
 The user will be the ones directly donating money towards helping assist organizations with donations. The app DropIt stands behind the philosophy of giving up a luxury so you will make a positive change in another persons life who is need of basic essentials. 
 
 DropIt increases financial awareness towards the user and makes there decisions of giving up something impact someone else in a positive way. Based on the item you give up for the day you donate a percentage of what its value is generalized at. This allows there to be an incentive for yourself that your saving money,  as well as knowing you are doing good by donating a portion of it. All the donations will be stored up until you wish to select how much you want to donate. "
-   heading2: PROCESS 
+   heading2: STEP 1 research 
    process: "To be able to help with a global goal it was important to understand who and where would be best to target and would actually have an impact on goal 6. I reserached specific areas in developing countries that were behind and would not reach the desired goals by 2030, this lead me to Sub- Sahara Africa. I then specifically targeted ideas that would make a difference with the communities; clean water and sanitation also leads to an increase of women getting proper education."
-   heading3: PROCESS 
+   heading3: STEP 2  brand language 
    artdirection: "When creating the app I presented a concept model that would display how the user would reach each end result when using the app. I then sketched out wireframes and a user flow that displayed how content would be navigated through and displayed. After all content was correct I brought the wireframes into Invision where I was able to user test my app and get feedback. " 
    images-process: images/dropitresearch.png
    images-process-alt: images of the target audiance and research

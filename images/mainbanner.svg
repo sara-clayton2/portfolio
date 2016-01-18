@@ -36,6 +36,8 @@
 	.st30{fill:#CAD6D7;}
 	.st31{fill:#818282;}
 	.st32{opacity:0.78;fill:#414141;}
+	.st33{font-family:'Lato-Semibold';}
+	.st34{font-size:28.5274px;}
 </style>
 <g>
 	<rect x="2.4" y="0" class="st0" width="1507.3" height="766.6"/>
@@ -223,4 +225,5 @@
 	<circle class="st29" cx="166.1" cy="537.7" r="20"/>
 </g>
 <rect class="st32" width="1509.7" height="766.6"/>
+<text transform="matrix(1 0 0 1 497.409 399.89)" class="st20 st33 st34">UX UI DESIGNER &amp; ILLUSTRATOR</text>
 </svg>
