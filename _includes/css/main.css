@@ -170,6 +170,7 @@ a:hover, a:visited, a:link, a:active {
 
 .portfolio-section {
 	color: white;
+	height: 18em;
 	background-color: grey;
 	-webkit-transition: all 120ms linear;
   	-moz-transition: all 120ms linear;
@@ -178,14 +179,14 @@ a:hover, a:visited, a:link, a:active {
 	transition: all 120ms linear;
 }
 
-.portfolio-section :hover {
-	color: #CCCAC8;
-	background-color: #282828;
-}
-
 .title {
 	text-align: center;
 	padding: 1em;	
+}
+
+.title:hover {
+	color: #CCCAC8;
+	opacity: .4;
 }
 
 .portfolio-description {
@@ -194,23 +195,31 @@ a:hover, a:visited, a:link, a:active {
 	text-align: center;
 	font-weight: 300;
 	letter-spacing: .1em;
+	padding-top: 3em;
 }
 
 .description-title {
-    text-align: left;
-    line-height: .5rem;
     font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: .1em;
-    border-bottom: 1px solid #ccc;
-	padding-bottom: 1em;
+	padding-bottom: .5em;
     margin: 1.25em;
     display: block;
+	text-align: center;
 }
 
 .portfolio-text-align {
 	text-align: center;
+}
+
+.texts { 
+	text-align: center;
+	margin:0 auto;
+	max-width: 50%;
+	color: #878787;
+	padding-bottom: 3em;
+	
 }
 
 .initial-description {
@@ -236,6 +245,16 @@ a:hover, a:visited, a:link, a:active {
 	width: 100%; 
 	height: auto;
 	text-align: center;
+}
+
+.placeholderprocess { 
+	padding: 0; 
+	width: 80%; 
+	height: auto;
+	text-align: center;
+	display:block; 
+	margin:0 auto;
+	
 }
 
 .tools { 
@@ -528,4 +547,18 @@ a:hover, a:visited, a:link, a:active {
     background: #fff;
     margin: 0 auto;
     margin-top: -1.4rem;
+}
+
+.secmark { 
+	width: 10em;
+	padding-top: 3em;
+}
+
+.midbanner { 
+	padding-top: 3em;
+}
+
+.color { 
+	background-color: #00B2B0;
+	padding-top: 1em;
 }

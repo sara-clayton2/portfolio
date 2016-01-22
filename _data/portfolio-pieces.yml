@@ -1,13 +1,15 @@
--  title: Zooby
-   id: zoo-app
-   classification: UX/UI Design
-   heading1: DEFINITION
-   definition: "Zooby is an android mobile app that helps users navigate through a zoo, find information about animals and find events going on within the zoo."
-   heading2: STEP 1  research 
-   process: "The application is specifically designed for fast and convenient interaction and communication. Before everything it was necessary to understand the user and target audiance to ensure an effective application. In order to establish hierarchy and ensure Zooby is user friendly I created a flow chart and wireframes to map out usability as well as to later test in Invision."
-   heading3:  STEP 2  brand language
-   artdirection: "The desired sensibilities of the app were honed in upon with a series of mood boards. From there I established the initial creative look-and-feel of the app. The final result was a bold, fun nature inspired color pallet with icons designed through illustrator that would engage families in an educational, fun, enviornmental based setting."
-   images-process: images/zoo-research.png
+-  title: cityfolk
+   id: cityfolk-app
+   classification: Web Design and Development
+   images-mark: images/cityfolkicon.svg
+   heading1: WEB DESIGN AND DEVELOPMENT
+   definition: "Newly located at Lansdowne Park, CityFolk (formerly known as the Ottawa Folk Festival) is a five-day celebration of music, dance, and community featuring an eclectic mix of musical performances on multiple stages. I redesigned the image of city folk to reflect the energy and excitement of the festival while representing the new reputation of who they are."
+   images-mid: images/cityfolkmid.png
+   heading2: BRAND ANALYSIS
+   process: "I created a few mood boards that would help represent the look and feel of who City Folk are and the energy the festival brings. City Folk is a very lively, community oriented, family-friendly, culturally diverse festival that has a loud standing for all festival goers."
+   heading3:  WIREFRAMES
+   artdirection: "I wanted content to be blunt-force up front as soon as a user loaded the homepage. The new brand needed to be prominent and excite users to get ready for a new change. There needed to be a simplicity to the pages to make content easy for users to find and gather quickly. Having hilighted artists and bands would be prominent to excite viewer to attend. "
+   images-process: images/cityfolkwireframe.svg
    images-process-alt: an image showing the wireframe process for the zoo app
    images-artdirection: images/zoo-arts.png
    images-artdirection-alt: images showing color scheme and iconography for zoo app
@@ -17,7 +19,7 @@
    images-application-alt: screens displaying the zoo app features
    images-layout: images/zooapp-final2.png
    images-layout-alt: screens displaying the zoo app features
-   bg: zootitle.jpg
+   bg: cityfolkhead.png
    
 -  title: .Kode 
    id: kode
