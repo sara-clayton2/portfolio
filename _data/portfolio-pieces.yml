@@ -53,3 +53,31 @@ Adults age 30-50 years old who are familiar with a multitude of different device
    images-endmark: images/zoobyicon.svg
    bg: zoobyhead.png
    
+-  title: DROPIT
+   id: drop-app
+   classification: UX UI Design
+   images-mark: images/dropiticon.svg
+   heading1:  UX UI Design
+   definition: "Dropit is a mobile application that aims to solve global goal 6, by collecting donations through a give and receive process. The app allows the user to give up a daily luxury and in return give girls in the developing country of Sub Sahara Africa an essential; clean water, sanitation and proper education. Through the donation process only half the money from the item given up will be donated and the other half will be saved for yourself. Clean water and sanitation: World Leaders have committed to 17 Global Goals to achieve 3 extraordinary things in the next 15 years. One of the main ones being 6: Clean water and sanitation. This global goal aims to ensure availability and sustainable management of water and sanitation for all."
+   images-mid: images/dropitmid.png
+   heading2: TARGET MARKET
+   process: "DropIt is meant for males and females ages 20 to 40 who live in a suburban environment. Their average income ranges from $35,000 to $60,000 a year (single income) and they have a post secondary education (university degree or college diploma).  The targeted audience is either single or married (with or without children).  The users are multicultural coming from a large range of ethnic backgrounds with a wide range of experiences and customs. The users are well educated in global issues especially within developing countries. "
+   images-personas: images/dropitpersona.png
+   images-personas-alt: image of a persona for a user
+   heading3: FLOWCHART
+   artdirection: "I wanted the process of donating to be very smooth and simple, making it a one step process, so when wireframing out the app I made minimal steps but kept necessary content such as donation, about and contributions. The frames were then brought into InVision where usability testing took place. "
+   images-process: images/dropitwireframe.svg
+   images-process-alt: an image showing the wireframe process for drop it
+   heading4: DESIGN
+   application: "" 
+   images-application: images/dropitmobile1.png
+   images-application-alt: launch screen for drop it 
+   images-layout: images/dropitmobile2.png
+   images-layout-alt: screens displaying donate for drop it 
+   images-extra: images/dropitmobile3.png
+   images-extra-alt: mobile screens displaying donate for drop it 
+   images-extradouble: images/dropitmobile4.png
+   images-extradouble-alt: mobile screens displaying donate for drop it 
+   images-endmark: images/dropiticon.svg
+   bg: dropithead.png
+   

@@ -245,9 +245,10 @@ header {
 	padding: 0; 
 	display:block; 
 	margin:0 auto;
-	width: 40%; 
+	width: 50%; 
 	height: auto;
 	text-align: center;
+	padding-bottom: 3em;
 }
 
 .persona { 
