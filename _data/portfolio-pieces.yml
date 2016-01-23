@@ -81,3 +81,31 @@ Adults age 30-50 years old who are familiar with a multitude of different device
    images-endmark: images/dropiticon.svg
    bg: dropithead.png
    
+-  title: WEATHERWEAR
+   id: weather-app
+   classification: UX UI Design
+   images-mark: images/weathericon.svg
+   heading1:  UX UI Design
+   definition: "WeatherWear is a mobile app that connects the user to the local weather forecast and offers suggestions of comfortable and appropriate wardrobe choices for that day."
+   images-mid: images/weathermid.png
+   heading2: TARGET MARKET
+   process: "Morning Attire is meant for males and females ages 20 to 39 who live in a suburban environment but are often seen exploring nature. Their average income ranges from $35,000 to $60,000 a year (single income) and they have a post secondary education (university degree or college diploma).  The targeted audience is either single or married (with or without children). They are working professionals who are always on the run or are traveling often for pleasure or business. The users are multi cultural coming from a large range of ethnic backgrounds with a wide range of experiences and customs. Their hobbies range from travel, participate in outdoor activities, spending time with friends and family but they are also career driven."
+   images-personas: images/weatherpersona.png
+   images-personas-alt: image of a persona for a user
+   heading3: HIGH FEDELITY WIREFRAMES
+   artdirection: "I wanted all important content, the weather, to be the initial screen where users can quickly look by location the tempatures for the day - week. By having a simple and clean button where users can access the “what should you wear?” section of the app allowed the space to be clean and uncluttered as well as ensuring content is easily accessable and clear."
+   images-process: images/weatherwireframe.svg
+   images-process-alt: an image showing high fedelity wireframes for weather wear
+   heading4: DESIGN
+   application: "" 
+   images-application: images/weathermobile1.png
+   images-application-alt: launch screen for weatherwear 
+   images-layout: images/weathermobile2.png
+   images-layout-alt: screens displaying weather wear  
+   images-extra: images/weathermobile3.png
+   images-extra-alt: mobile screens displaying weather wear
+   images-extradouble: images/weathermobile4.png
+   images-extradouble-alt: mobile screens displaying weatherwear
+   images-endmark: images/weathericon.svg
+   bg: weatherhead.png
+   

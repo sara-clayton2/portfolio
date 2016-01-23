@@ -47,33 +47,34 @@ changefreq: weekly
 
 			</div>
 	
+		<div class="shades">
+			<p class="description-title portfolio-text-align portfolio-padding" itemprop="alternativeHeadline">{{portfolio.heading4}}</p>
 
-		<p class="description-title portfolio-text-align portfolio-padding" itemprop="alternativeHeadline">{{portfolio.heading4}}</p>
-		
-		<p class="texts" itemprop="description">{{portfolio.application}}</p>
-			
-		<div class="grid">
-			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-					<img class="placeholderphone" src="{{portfolio.images-application}}" alt="{{portfolio.images-application-alt}}" itemprop="image">
+			<p class="texts" itemprop="description">{{portfolio.application}}</p>
+
+				<div class="grid">
+					<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+							<img class="placeholderphone" src="{{portfolio.images-application}}" alt="{{portfolio.images-application-alt}}" itemprop="image">
+						</div>
+					<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+						<img class="placeholderphone"  src="{{portfolio.images-layout}}" alt="{{portfolio.images-layout-alt}}" itemprop="image">
+					</div>
 				</div>
-			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-				<img class="placeholderphone"  src="{{portfolio.images-layout}}" alt="{{portfolio.images-layout-alt}}" itemprop="image">
-			</div>
+
+			<div class="grid">	
+				<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+					<img class="placeholderphone" src="{{portfolio.images-extra}}" alt="{{portfolio.images-extra-alt}}" itemprop="image">
+				</div>
+				<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+					<img class="placeholderphone" src="{{portfolio.images-extradouble}}" alt="{{portfolio.images-extra-alt}}" itemprop="image">
+				</div>
+				</div>
+
+				<img class="endmark" src="{{portfolio.images-endmark}}" alt="{{portfolio.images-endmark-alt}}" itemprop="image">
+
+				<a href="#{{portfolio.id}}-top"><img class="close" src="images/close.svg" alt="close"></a>
 		</div>
-		
-	<div class="grid">	
-		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-			<img class="placeholderphone" src="{{portfolio.images-extra}}" alt="{{portfolio.images-extra-alt}}" itemprop="image">
-		</div>
-		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-			<img class="placeholderphone" src="{{portfolio.images-extradouble}}" alt="{{portfolio.images-extra-alt}}" itemprop="image">
-		</div>
-		</div>
-		
-		<img class="secmark" src="{{portfolio.images-endmark}}" alt="{{portfolio.images-endmark-alt}}" itemprop="image">
-		
-		<a href="#{{portfolio.id}}-top"><img class="close" src="images/close.svg" alt="close"></a>
-	</div>
+	</div>	
 
  {% endfor %}
 	
