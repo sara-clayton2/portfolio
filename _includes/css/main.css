@@ -220,7 +220,7 @@ header {
 .texts { 
 	text-align: center;
 	margin:0 auto;
-	max-width: 50%;
+	max-width: 70%;
 	color: #878787;
 	padding-bottom: 3em;
 	
@@ -484,6 +484,15 @@ header {
 	.finish-info { 
 		padding-right: 7em; 
 		padding-left: 7em;
+	}
+	
+	.texts { 
+		text-align: center;
+		margin:0 auto;
+		max-width: 50%;
+		color: #878787;
+		padding-bottom: 3em;
+	
 	}
 }
 
