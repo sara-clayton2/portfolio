@@ -11,30 +11,6 @@ changefreq: weekly
 	
 	</div>
 	
-	<div id="about" class="about-me">
-		<h1 class="mainhead">hello</h1>	
-		<span class="dark-border"></span>
-		<p class="about" itemprop="about">I'm an Ottawa based user interface designer and user experience enthusiast. I have a keen eye for pixel perfect detail and strive to create a genuine experience for the web. In terms I build awesome things for web and mobile. I hope you enjoy my work. If you like my work feel free to contact me, whether you want to work together or just chat about awesome design.</p>
-	</div>
-
-	<div id="work">
-		<div class="work-section">
-			<h1 class="mainhead">work</h1>	
-			<span class="dark-border"></span>
-		</div>
-	</div>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
 {% for portfolio in site.data.portfolio-pieces %}
 	
@@ -61,28 +37,35 @@ changefreq: weekly
 				<p class="description-title portfolio-text-align" itemprop="alternativeHeadline">{{portfolio.heading2}}</p>
 				<p class="texts" itemprop="description">{{portfolio.process}}</p>	
 		
-			
+				<img class="persona" src="{{portfolio.images-personas}}" alt="{{portfolio.images-personas-alt}}" itemprop="image">
 				
 		<div class="color">
 			<p class="description-title portfolio-text-align" itemprop="alternativeHeadline">{{portfolio.heading3}}</p>
 					<p class="texts" itemprop="description">{{portfolio.artdirection}}</p>
 
+			<img class="placeholderprocess" src="{{portfolio.images-process}}" alt="{{portfolio.images-process-alt}}" itemprop="image">
 
-					<img class="placeholderprocess" src="{{portfolio.images-process}}" alt="{{portfolio.images-process-alt}}" itemprop="image">
-
-					<img class="placeholdertwo" src="{{portfolio.images-artdirection}}" alt="{{portfolio.images-artdirection-alt}}" itemprop="image">
 			</div>
 	
 
 		<p class="description-title portfolio-text-align portfolio-padding" itemprop="alternativeHeadline">{{portfolio.heading4}}</p>
 		
-		<p class="initial-description portfolio-text-align" itemprop="description">{{portfolio.application}}</p>
+		<p class="texts" itemprop="description">{{portfolio.application}}</p>
 			
-	
-				<img class="placeholder" src="{{portfolio.images-application}}" alt="{{portfolio.images-application-alt}}" itemprop="image">
-
-				<img class="placeholder"  src="{{portfolio.images-layout}}" alt="{{portfolio.images-layout-alt}}" itemprop="image">
-
+		<div class="grid">
+			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+					<img class="placeholderphone" src="{{portfolio.images-application}}" alt="{{portfolio.images-application-alt}}" itemprop="image">
+				</div>
+			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+				<img class="placeholderphone"  src="{{portfolio.images-layout}}" alt="{{portfolio.images-layout-alt}}" itemprop="image">
+			</div>
+		</div>
+		
+			<img class="placeholderextra" src="{{portfolio.images-extra}}" alt="{{portfolio.images-extra-alt}}" itemprop="image">
+		
+			<img class="placeholderextra" src="{{portfolio.images-extradouble}}" alt="{{portfolio.images-extra-alt}}" itemprop="image">
+		
+		<img class="secmark" src="{{portfolio.images-endmark}}" alt="{{portfolio.images-endmark-alt}}" itemprop="image">
 		
 		<a href="#{{portfolio.id}}-top"><img class="close" src="images/close.svg" alt="close"></a>
 	</div>
@@ -90,7 +73,11 @@ changefreq: weekly
  {% endfor %}
 	
 	
-	
+		<div id="about" class="about-me">
+		<h1 class="mainhead">hello</h1>	
+		<span class="dark-border"></span>
+		<p class="about" itemprop="about">I'm an Ottawa based user interface designer and user experience enthusiast. I have a keen eye for pixel perfect detail and strive to create a genuine experience for the web. In terms I build awesome things for web and mobile. I hope you enjoy my work. If you like my work feel free to contact me, whether you want to work together or just chat about awesome design.</p>
+	</div>
 	
 	
 	

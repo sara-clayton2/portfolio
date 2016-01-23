@@ -10,120 +10,46 @@
    heading3:  WIREFRAMES
    artdirection: "I wanted content to be blunt-force up front as soon as a user loaded the homepage. The new brand needed to be prominent and excite users to get ready for a new change. There needed to be a simplicity to the pages to make content easy for users to find and gather quickly. Having hilighted artists and bands would be prominent to excite viewer to attend. "
    images-process: images/cityfolkwireframe.svg
-   images-process-alt: an image showing the wireframe process for the zoo app
-   images-artdirection: images/zoo-arts.png
-   images-artdirection-alt: images showing color scheme and iconography for zoo app
-   heading4: STEP 3 APPLICATION
-   application: 
-   images-application: images/zoo-final1.png
-   images-application-alt: screens displaying the zoo app features
-   images-layout: images/zooapp-final2.png
-   images-layout-alt: screens displaying the zoo app features
+   images-process-alt: an image showing the wireframe process for city folk
+   heading4: DESIGN
+   application: "The best way to communicate the brand feel was to serve large amounts of vibrant content which was represented through the color pallet . Without the content, this site is minimalist." 
+   images-application: images/cityfolkphone1.png
+   images-application-alt: screens displaying city folk on mobile
+   images-layout: images/cityfolkphone2.png
+   images-layout-alt: screens displaying city folk website
+   images-extra: images/cityfolkwebsite2.png
+   images-extra-alt: screens displaying city folk website home screen
+   images-extradouble: images/cityfolkwebsite.png
+   images-extradouble-alt: screens displaying city folk website line up screen
+   images-endmark: images/cityfolkendmark.svg
    bg: cityfolkhead.png
    
--  title: .Kode 
-   id: kode
-   classification: HTML CSS AND JAVASCRIPT
-   heading1: DEFINITION
-   definition: "An interactive and responsive website for kids to learn the basics of html and css and how it can be applied to create their own website."
-   heading2: STEP 1  research  
-   process: "I started to research and write the content I wanted to address in the website and format it into content that could be easily understood by children who have little or no experience in coding. After, I produced a variety of sketches to layout my information and how I wanted the content to be graphically designed, as well as taking into consideration designing for different devices. Using html, css and javascript I coded a responsive website with interactive content that would engage kids and explain the basics of coding."
-   heading3: STEP 2  brand language
-   artdirection: "This website is based around teaching youth to code. To make the website attractive for youth I created a color pallet of bright blues and yellows. To keep consistent with the theme I thought it would be a fun and educational way of teaching code by using illustrated images. The font was all sans serif because of the age demographic and small paragraphs. All visuals and content are fun, bubbly and energetic but are clean and flat designs to focus mainly on content."
-   images-process: images/kode-research.png
-   images-process-alt: image of the wireframe for the kode website
-   images-artdirection: images/kode-art.png
-   images-artdirection-alt: images of sketches for the imagery and color schemes
-   heading4: APPLICATION
-   application: "The content was written specifically for youth so that it could easily be understood. Using the art direction I decided upon I brought in the illustrated images and made the content interactive to keep user engagment. All content is completely responsive and has accessability features. It is a single page website for easy flow and to ensure the user can accompany both content together."
-   images-application: images/kodemockup2.png
-   images-application-alt: images of the website in various devices
-   images-layout: images/kodemockup.png
-   images-layout-alt: images of the mobile screens 
-   bg: kodetitle.jpg
-   
--  title: WeatherWear
-   id: weatherwear
-   classification: UX / UI DESIGN
-   heading1: DEFINITION
-   definition: "WeatherWear is a mobile app that connects the user to the local weather forecast and offers suggestions of comfortable and appropriate wardrobe choices for that day."
-   heading2: STEP 1  research 
-   process: "In order to create content for the app, I created a flow chart about a persons experience and pain points for waking up and finding an approprite wardrobe choice while guessing how their decision in clothing will impact them during the changing tempatures throught the day. To resolve this issue I began gathering content that would help the user with these pain points. In Illustrator I created a flow chart and wireframe of my app which was later tested in Invision. I also did usability testing where a group of peers and myself tested the interaction of the app to ensure all content had a nice flow and could properly be obtained."
-   heading3: STEP 2  brand language
-   artdirection: "When you think weather you have a different reaction depending on if the day is bright and sunny or dull and rainy. When creating the color pallet for this weather app I wanted to relate content and emotions with colors. All users are visual and having the various colors associate with its content creates a good experience ( eg: sunny with yellows, rainy with greys, cloudy with blues )."
-   images-process: images/weather-research.png
-   images-process-alt: images displaying the wireframe of the content for the weather app
-   images-artdirection: images/weather-art.png
-   images-artdirection-alt: image displaying the iconography for the weather app
-   heading4: APPLICATION
-   application: "Local weather updates:Accurate and updated weather information based on location. Suggested clothing:General clothing pieces that are paired together and suggested for the overall days forecast. Favourited items:Based on your previous clothing suggestions and the weather for the day the user can save the wardrobe to be suggested again during a similar forecast day."
-   images-application: images/weather-final1.png
-   images-application-alt: images showing the weather apps loading and initial screen in a a mobile device
-   images-layout: images/weather-final2.png
-   images-layout-alt: image of the interior of the app 
-   bg: weathertitle.jpg
-   
--  title: Learning Touch Canada
-   id: learning-touch-canada
-   classification: UX / UI DESIGN
-   heading1: DEFINITION
-   definition: "Re-design for a Windows app called Learning Touch Canada an education app where users learn to identify the flags, capital cities, provinces and territories of Canada with a set of simple matching games."
-   heading2: STEP 1  research
-   process: "Learning Touch Canada has a successful interaction and user experience; being rated a 4/5 star on the Microsoft Store. The app was designed with minimal graphic styles and color palletes. Knowing the creator of the app I was able to speak with him about the direction and vision he had for the design and content layout. After gathering primary research I was able to branch out and look at other successful Windows apps and collect popular and trending graphic styles and layouts that were successfully interpreting data while creating a clean and beautiful design. Below are examples of the layout and design before the re-design"
-   heading3: STEP 2  brand language
-   artdirection: "The content for this app is educational and having a large amount of iconography, colors and images would take away from the important information. I decided to steer clear of anything distruptive or distractive by keeping my color pallet simple of just red tones and having any icons used, as a flat design. All flags were converted to illustrated images and I decided to restylize the map into a more attractive design."
-   images-process: images/learning-initial.png
-   images-process-alt: images of the sketches of the newly developed concept for Learning Touch Canada
-   images-artdirection: images/learning-art.png
-   images-artdirection-alt: images for the colors used in the Learning Touch Canada
-   heading4: APPLICATION
-   images-application: images/learning-final1.png
-   images-application-alt: Image of the initial Learning Touch Canada app before the redesign
-   images-layout: images/learning-final2.png
-   images-layout-alt: image of the newly designed version of the Learning Touch Canada application
-   bg: learningtitle.jpg
-   
--  title: Isometric Illustration 
-   id: isometric-illustration
-   classification: ILLUSTRATOR 
-   heading1: DEFINITION
-   definition: "An isometric illustration using Illustrator displaying the process of creating a mobile app." 
-   heading2: STEP 1 research
-   process: "I began by researching and sketching isometric illustrations that displayed a process and the actions that would be performed during each process. To create an isometric pieces I had to set up action buttons within Illustrator to make the perspective correct and to have each piece properly aligned."
-   heading3: STEP 2  brand language
-   artdirection: "I decided to go with a colour pallet that was simple and modern, consisting of bright bold colors."  
-   images-process: images/iso-sketch.png
-   images-process-alt: images of the initial sketches on a grid template for the isometric illustration
-   images-artdirection: images/iso-art.png
-   images-artdirection-alt: image of the color schemes for the isometric illustration
-   heading4: APPLICATION
-   images-application: images/iso-final1.png
-   images-application-alt: image of the isometric illustration final piece
-   images-layout: images/iso-final2.png
-   images-layout-alt: images of upclose snippets from the isometric illustraion
-   bg: isotitle.jpg
-   
--  title: DropIt 
-   id: dropit
-   classification: UX / UI design
-   heading1: DEFINITION
-   definition: "An application that aims towards solving one of the Global Goals: Goal 6 Clean water and Sanitation. This is a donation app that makes giving up a luxury give someone in the developing country of Sub-Sahara Africa a necessity. The donations will specifically go towards helping provide communities with clean and convenient drinking water by implementing a well system. Another benefit is providing proper sanitation such as washrooms with proper hand washing stations. Both these actions will help decrease deaths caused by unclean water and improper hygiene practices and promote education for girls. 
-
-The user will be the ones directly donating money towards helping assist organizations with donations. The app DropIt stands behind the philosophy of giving up a luxury so you will make a positive change in another persons life who is need of basic essentials. 
-
-DropIt increases financial awareness towards the user and makes there decisions of giving up something impact someone else in a positive way. Based on the item you give up for the day you donate a percentage of what its value is generalized at. This allows there to be an incentive for yourself that your saving money,  as well as knowing you are doing good by donating a portion of it. All the donations will be stored up until you wish to select how much you want to donate. "
-   heading2: STEP 1 research 
-   process: "To be able to help with a global goal it was important to understand who and where would be best to target and would actually have an impact on goal 6. I reserached specific areas in developing countries that were behind and would not reach the desired goals by 2030, this lead me to Sub- Sahara Africa. I then specifically targeted ideas that would make a difference with the communities; clean water and sanitation also leads to an increase of women getting proper education."
-   heading3: STEP 2  brand language 
-   artdirection: "When creating the app I presented a concept model that would display how the user would reach each end result when using the app. I then sketched out wireframes and a user flow that displayed how content would be navigated through and displayed. After all content was correct I brought the wireframes into Invision where I was able to user test my app and get feedback. " 
-   images-process: images/dropitresearch.png
-   images-process-alt: images of the target audiance and research
-   images-artdirection: images/artdirection.png
-   images-artdirection-alt: image of the wireframe and user flow 
-   heading4: APPLICATION
-   images-application: images/dropit-art2-01.png
-   images-application-alt: image of DropIt app
-   images-layout: images/dropit-art1-01.png
-   images-layout-alt: images of DropIt app 
-   bg: dropittitle.jpg
+-  title: ZOOBY 
+   id: zoo-app
+   classification: UX UI Design
+   images-mark: images/zoobyicon.svg
+   heading1:  UX UI Design
+   definition: "Zooby is an android mobile app that helps users navigate through a zoo, find information about animals and find events going on within the zoo."
+   images-mid: images/zoobymid.png
+   heading2: TARGET MARKET
+   process: "ZOOBY is an app that targets a wide range of visitors. The two primary audiences it aims to satisfy are: 
+Adults age 30-50 years old who are familiar with a multitude of different devices and have a moderate technology skills. Children ages eight to twelve with moderate technology skills and knowledge of using a phone or tablet device."
+   images-personas: images/zoobypersona.png
+   images-personas-alt: image of a persona for a user
+   heading3: FLOWCHART
+   artdirection: "To ensure usability I created flow charts that would outline the flow and tiers of the app that the user would be engaging with. The frames were then brought into InVision where usability testing took place. "
+   images-process: images/zoobywireframe.svg
+   images-process-alt: an image showing the wireframe process for zooby app
+   heading4: DESIGN
+   application: "" 
+   images-application: images/zoobymobile1.png
+   images-application-alt: launch screen for zooby
+   images-layout: images/zoobymobile2.png
+   images-layout-alt: screens displaying map for zooby
+   images-extra: images/zoobymobile3.png
+   images-extra-alt: mobile screens displaying animal info 
+   images-extradouble: images/zoobymobile4.png
+   images-extradouble-alt: mobile screens displaying animal content
+   images-endmark: images/zoobyicon.svg
+   bg: zoobyhead.png
    
