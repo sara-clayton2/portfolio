@@ -1,111 +1,69 @@
--  title: cityfolk
-   id: cityfolk-app
-   classification: Web Design and Development
-   images-mark: images/cityfolkicon.svg
-   heading1: WEB DESIGN AND DEVELOPMENT
-   definition: "Newly located at Lansdowne Park, CityFolk (formerly known as the Ottawa Folk Festival) is a five-day celebration of music, dance, and community featuring an eclectic mix of musical performances on multiple stages. I redesigned the image of city folk to reflect the energy and excitement of the festival while representing the new reputation of who they are."
-   images-mid: images/cityfolkmid.png
-   heading2: BRAND ANALYSIS
-   process: "I created a few mood boards that would help represent the look and feel of who City Folk are and the energy the festival brings. City Folk is a very lively, community oriented, family-friendly, culturally diverse festival that has a loud standing for all festival goers."
-   heading3:  WIREFRAMES
-   artdirection: "I wanted content to be blunt-force up front as soon as a user loaded the homepage. The new brand needed to be prominent and excite users to get ready for a new change. There needed to be a simplicity to the pages to make content easy for users to find and gather quickly. Having hilighted artists and bands would be prominent to excite viewer to attend. "
-   images-process: images/cityfolkwireframe.svg
-   images-process-alt: an image showing the wireframe process for city folk
-   heading4: DESIGN
-   application: "The best way to communicate the brand feel was to serve large amounts of vibrant content which was represented through the color pallet . Without the content, this site is minimalist." 
-   images-application: images/cityfolkphone1.png
-   images-application-alt: screens displaying city folk on mobile
-   images-layout: images/cityfolkphone2.png
-   images-layout-alt: screens displaying city folk website
-   images-extra: images/cityfolkwebsite2.png
-   images-extra-alt: screens displaying city folk website home screen
-   images-extradouble: images/cityfolkwebsite.png
-   images-extradouble-alt: screens displaying city folk website line up screen
-   images-endmark: images/cityfolkendmark.svg
-   bg: cityfolkhead.png
+-  title: birdwatch
+   id: bird-watch
+   classification: Branding and UI Design
+   heading1: Birdwatch
+   definition: "Have you ever wondered what that bird you just saw was? Well Birdwatch helps you solve that question. This IOS app asks you a few simple questions. Then through process of elimination it reveals the list of birds that best match your description. When you find your bird you discover more photos, hear bird calls and learn more information about your chosen species. "
+   heading2: Project Goals
+   process: "The main goal of this project was to create a simplified application that allows users to easily and effectively discover species of birds. The target audience was identified as adventure travellers aged 35-50 from a middle to upper socio-economic background. Birdwatcher needed to reach out to these users, and to communicate a sense of discovery and simplicity."
+   images-personas: images/bird-watching-01.png
+   heading3:  WORKFLOW
+   artdirection: "This project started with competitive research analysis and mapping a user flow chart with clear user objectives – to discover new species of birds and identify birds. Low-fidelity interactive prototypes were then tested on user-groups using InVision, before the final high-fidelity mockups were produced."
+   images-process: images/bird-flow-01.png
+   heading4: Learning Points
+   application: "This project was very important to me because I wanted to make something that was able to simplify a task task that is overally complex sometimes. Havinga user group that was older was very crucial in order to make the app as simple and clean as possible. User-testing with peers using InVision was invaluable." 
+   images-application: images/bird-watcherapp-01-01.png
+   images-layout: images/bird-app02-01.png
+   bg: birdwatcher-banner.png
    
 -  title: ZOOBY 
    id: zoo-app
-   classification: UX UI Design
+   classification: Branding and UI Design
    images-mark: images/zoobyicon.svg
-   heading1:  UX UI Design
+   heading1:  Zooby
    definition: "Zooby is an android mobile app that helps users navigate through a zoo, find information about animals and find events going on within the zoo."
-   images-mid: images/zoobymid.png
-   heading2: TARGET MARKET
-   process: "ZOOBY is an app that targets a wide range of visitors. The two primary audiences it aims to satisfy are: 
-Adults age 30-50 years old who are familiar with a multitude of different devices and have a moderate technology skills. Children ages eight to twelve with moderate technology skills and knowledge of using a phone or tablet device."
-   images-personas: images/zoobypersona.png
-   images-personas-alt: image of a persona for a user
-   heading3: FLOWCHART
-   artdirection: "To ensure usability I created flow charts that would outline the flow and tiers of the app that the user would be engaging with. The frames were then brought into InVision where usability testing took place. "
-   images-process: images/zoobywireframe.svg
-   images-process-alt: an image showing the wireframe process for zooby app
-   heading4: DESIGN
-   application: "" 
-   images-application: images/zoobymobile1.png
-   images-application-alt: launch screen for zooby
-   images-layout: images/zoobymobile2.png
-   images-layout-alt: screens displaying map for zooby
-   images-extra: images/zoobymobile3.png
-   images-extra-alt: mobile screens displaying animal info 
-   images-extradouble: images/zoobymobile4.png
-   images-extradouble-alt: mobile screens displaying animal content
-   images-endmark: images/zoobyicon.svg
-   bg: zoobyhead.png
+   heading2: Project Goals
+   process: "This application aims to enhance two specific user tasks – to navigate to specific animals to learn about events happening on that day. The app is designed for Android devices, and must incorporate the principles of Google's Material Design."
+   images-personas: images/zoo-wires-01.png
+   heading3: Workflow
+   artdirection: "This project started with competitive research analysis and mapping a user flow chart with clear user objectives – to locate themselves on the map, learn more about and locate specific animals, and to navigate to events. Low-fidelity interactive prototypes were then tested on user-groups using InVision, before the final high-fidelity mockups were produced. "
+   images-process: images/zooby-final-01.png
+   heading4: Learning Points
+   application: "Since I was new to the principles of Google Material Design, having to apply their principles was a big learning experience. There are so many things to learn from the UI design of an Android and I was happy to be exposed to the experience." 
+   images-application: images/zoo-app-mock-01-01.png
+   images-layout: images/zoo-app-01.png
+   bg: zooby-ban.png
    
 -  title: DROPIT
    id: drop-app
-   classification: UX UI Design
-   images-mark: images/dropiticon.svg
+   classification: UI Design
    heading1:  UX UI Design
    definition: "Dropit is a mobile application that aims to solve global goal 6, by collecting donations through a give and receive process. The app allows the user to give up a daily luxury and in return give girls in the developing country of Sub Sahara Africa an essential; clean water, sanitation and proper education. Through the donation process only half the money from the item given up will be donated and the other half will be saved for yourself. Clean water and sanitation: World Leaders have committed to 17 Global Goals to achieve 3 extraordinary things in the next 15 years. One of the main ones being 6: Clean water and sanitation. This global goal aims to ensure availability and sustainable management of water and sanitation for all."
-   images-mid: images/dropitmid.png
-   heading2: TARGET MARKET
+   heading2: Project Goals
    process: "DropIt is meant for males and females ages 20 to 40 who live in a suburban environment. Their average income ranges from $35,000 to $60,000 a year (single income) and they have a post secondary education (university degree or college diploma).  The targeted audience is either single or married (with or without children).  The users are multicultural coming from a large range of ethnic backgrounds with a wide range of experiences and customs. The users are well educated in global issues especially within developing countries. "
    images-personas: images/dropitpersona.png
-   images-personas-alt: image of a persona for a user
-   heading3: FLOWCHART
-   artdirection: "I wanted the process of donating to be very smooth and simple, making it a one step process, so when wireframing out the app I made minimal steps but kept necessary content such as donation, about and contributions. The frames were then brought into InVision where usability testing took place. "
+   heading3: Workflow
+   artdirection: "This project started with competitive research analysis and mapping a user flow chart with clear user objectives. Low-fidelity interactive prototypes were then tested on user-groups using InVision, before the final high-fidelity mockups were produced. "
    images-process: images/dropitwireframe.svg
-   images-process-alt: an image showing the wireframe process for drop it
-   heading4: DESIGN
-   application: "" 
-   images-application: images/dropitmobile1.png
-   images-application-alt: launch screen for drop it 
-   images-layout: images/dropitmobile2.png
-   images-layout-alt: screens displaying donate for drop it 
-   images-extra: images/dropitmobile3.png
-   images-extra-alt: mobile screens displaying donate for drop it 
-   images-extradouble: images/dropitmobile4.png
-   images-extradouble-alt: mobile screens displaying donate for drop it 
-   images-endmark: images/dropiticon.svg
-   bg: dropithead.png
+   heading4: Learning Points
+   application: "Since I was new to the principles of Google Material Design, having to apply their principles was a big learning experience. There are so many things to learn from the UI design of an Android and I was happy to be exposed to the experience." 
+   images-application: images/dropit-app-01.png
+   images-layout: images/dropit-app-02-01.png
+   bg: drop-ban.png
    
--  title: WEATHERWEAR
-   id: weather-app
-   classification: UX UI Design
-   images-mark: images/weathericon.svg
+-  title: Come Explore
+   id: explore-app
+   classification: UI Design
    heading1:  UX UI Design
-   definition: "WeatherWear is a mobile app that connects the user to the local weather forecast and offers suggestions of comfortable and appropriate wardrobe choices for that day."
-   images-mid: images/weathermid.png
-   heading2: TARGET MARKET
-   process: "Morning Attire is meant for males and females ages 20 to 39 who live in a suburban environment but are often seen exploring nature. Their average income ranges from $35,000 to $60,000 a year (single income) and they have a post secondary education (university degree or college diploma).  The targeted audience is either single or married (with or without children). They are working professionals who are always on the run or are traveling often for pleasure or business. The users are multi cultural coming from a large range of ethnic backgrounds with a wide range of experiences and customs. Their hobbies range from travel, participate in outdoor activities, spending time with friends and family but they are also career driven."
-   images-personas: images/weatherpersona.png
-   images-personas-alt: image of a persona for a user
-   heading3: HIGH FEDELITY WIREFRAMES
-   artdirection: "I wanted all important content, the weather, to be the initial screen where users can quickly look by location the tempatures for the day - week. By having a simple and clean button where users can access the “what should you wear?” section of the app allowed the space to be clean and uncluttered as well as ensuring content is easily accessable and clear."
-   images-process: images/weatherwireframe.svg
-   images-process-alt: an image showing high fedelity wireframes for weather wear
-   heading4: DESIGN
-   application: "" 
-   images-application: images/weathermobile1.png
-   images-application-alt: launch screen for weatherwear 
-   images-layout: images/weathermobile2.png
-   images-layout-alt: screens displaying weather wear  
-   images-extra: images/weathermobile3.png
-   images-extra-alt: mobile screens displaying weather wear
-   images-extradouble: images/weathermobile4.png
-   images-extradouble-alt: mobile screens displaying weatherwear
-   images-endmark: images/weathericon.svg
-   bg: weatherhead.png
+   definition: "It's time you discover new journeys. This camping app helps you find and filter places and services. The filters help distinguish the best campgrounds fit for all your preferences and needs, allowing you to discover new locations with amazing reviews."
+   heading2: Project Goals
+   process: "The target audience was identified as adventure travellers aged 20-35 from a middle socio-economic background. They are people who are used to camping but desire set expectations to be met. This app needs to help the user identify camp grounds that are within their specifications while being simple and easy to navigate through."
+   images-personas: images/camp-site-frame-01.png
+   heading3: Workflow
+   artdirection: "The project was designed by mapping a user flow chart with clear user objectives. Low-fidelity interactive prototypes were then tested on user-groups using InVision."
+   images-process: images/camp-wireframes-01.png
+   heading4: Learning Points
+   application: "The main challenge for this project was trying to keep the app as simple as possible. I wanted to create a valuable experience for users to try and ease the pain of finding campsites that have everything you need. With this app many users were not as tech savy but more outdoor savy. My learning point was simplicity and considering how to approach user-review on an app." 
+   images-application: images/campapp-01.png
+   images-layout: images/campapp-02-01.png
+   bg: camp-ban.png
    

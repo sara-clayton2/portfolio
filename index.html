@@ -12,10 +12,11 @@ changefreq: weekly
 	</div>
 	
 
+	<div id="pieces">
 {% for portfolio in site.data.portfolio-pieces %}
 	
 
-	<div id="{{portfolio.id}}-top" class="portfolio-section portfolio-description" style="background-image: url({{site.baseurl}}/images/{{portfolio.bg}});">	
+	<div id="{{portfolio.id}}-top" class="portfolio-section img-flex portfolio-description" style="background-image: url({{site.baseurl}}/images/{{portfolio.bg}});">	
 		 <a href="#{{portfolio.id}}">
 			<div class="title">
 				<h2 itemprop="headline">{{portfolio.title}}</h2>
@@ -26,26 +27,27 @@ changefreq: weekly
 
 	<div class="content" id="{{portfolio.id}}">	
 		
-				<img class="secmark" src="{{portfolio.images-mark}}" alt="{{portfolio.images-mark-alt}}" itemprop="image">
-		
 				<p class="description-title portfolio-text-align" itemprop="alternativeHeadline">{{portfolio.heading1}}</p>	
 				<p class="texts" itemprop="description">{{portfolio.definition}}</p>			
-
-				<img class="midbanner" src="{{portfolio.images-mid}}" alt="{{portfolio.images-mid-alt}}" itemprop="image">
-
-	
+		
+		
+		<div class="grid">
+			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
 				<p class="description-title portfolio-text-align" itemprop="alternativeHeadline">{{portfolio.heading2}}</p>
 				<p class="texts" itemprop="description">{{portfolio.process}}</p>	
-		
 				<img class="persona" src="{{portfolio.images-personas}}" alt="{{portfolio.images-personas-alt}}" itemprop="image">
-				
-		<div class="color">
-			<p class="description-title portfolio-text-align" itemprop="alternativeHeadline">{{portfolio.heading3}}</p>
+			</div>
+			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+		
+					<p class="description-title portfolio-text-align" itemprop="alternativeHeadline">{{portfolio.heading3}}</p>
 					<p class="texts" itemprop="description">{{portfolio.artdirection}}</p>
 
 			<img class="placeholderprocess" src="{{portfolio.images-process}}" alt="{{portfolio.images-process-alt}}" itemprop="image">
 
 			</div>
+	</div>
+
+
 	
 		<div class="shades">
 			<p class="description-title portfolio-text-align portfolio-padding" itemprop="alternativeHeadline">{{portfolio.heading4}}</p>
@@ -53,53 +55,62 @@ changefreq: weekly
 			<p class="texts" itemprop="description">{{portfolio.application}}</p>
 
 				<div class="grid">
-					<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+					<div class="unit unit-s-1 unit-m-1 unit-l-1">
 							<img class="placeholderphone" src="{{portfolio.images-application}}" alt="{{portfolio.images-application-alt}}" itemprop="image">
 						</div>
-					<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+					<div class="unit unit-s-1 unit-m-1 unit-l-1">
 						<img class="placeholderphone"  src="{{portfolio.images-layout}}" alt="{{portfolio.images-layout-alt}}" itemprop="image">
 					</div>
 				</div>
 
-			<div class="grid">	
-				<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-					<img class="placeholderphone" src="{{portfolio.images-extra}}" alt="{{portfolio.images-extra-alt}}" itemprop="image">
-				</div>
-				<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-					<img class="placeholderphone" src="{{portfolio.images-extradouble}}" alt="{{portfolio.images-extra-alt}}" itemprop="image">
-				</div>
-				</div>
-
-				<img class="endmark" src="{{portfolio.images-endmark}}" alt="{{portfolio.images-endmark-alt}}" itemprop="image">
+	<div class="final">
+		<h1 class="final-head">Like my work?</h1>	
+		<span class="black-border"></span>
+		<p class="about" itemprop="about">I'm always interested in chatting about new opportunities!</p>
+	</div>
 
 				<a href="#{{portfolio.id}}-top"><img class="close" src="images/close.svg" alt="close"></a>
 		</div>
 	</div>	
 
  {% endfor %}
+	</div>
 	
-	
-		<div id="about" class="about-me">
-		<h1 class="mainhead">hello</h1>	
-		<span class="dark-border"></span>
+	<div id="about" class="about-me">
+		<h1 class="maindarkhead">hello</h1>	
+		<span class="black-border"></span>
 		<p class="about" itemprop="about">I'm an Ottawa based user interface designer and user experience enthusiast. I have a keen eye for pixel perfect detail and strive to create a genuine experience for the web. In terms I build awesome things for web and mobile. I hope you enjoy my work. If you like my work feel free to contact me, whether you want to work together or just chat about awesome design.</p>
 	</div>
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	<div class="experience">
+		<h1 class="maindarkhead">experience</h1>	
+		<span class="black-border"></span>
+		<div class="grid">
+		
+			
+			
+				<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 job ">
+					<div class="work-ex">
+					<div class="underline-ex">
+						<p class="ex-title">Design Intern</p>
+					</div>
+					<p class="ex-job">Greenmelon | 2016</p>
+					</div>	
+				</div>
+			
+			
+					<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 job">
+						<div class="work-ex">
+						<div class="underline-ex">
+							<p class="ex-title">Design Assistant</p>
+						</div>
+					<p class="ex-job">Syncopate Media | 2016</p>
+					</div>
+			
+		
+	</div>
+	</div>
+
 	
 
 
